@@ -1,0 +1,42 @@
+@import "../../../colors";
+.contact-points {
+  .contact-point-item {
+    &:not(:last-child) {
+      .contact-point-panel {
+        border-bottom: 1px solid $background-grey;
+      }
+    }
+    &:last-child {
+      .contact-point-panel {
+        border-bottom: none;
+      }
+    }
+    .contact-point-panel {
+      .ant-collapse-header {
+        color: grey;
+        padding-left: 63px;
+        i.arrow {
+          font-size: 16px;
+          left: 22px;
+          height: 100%;
+          display: flex;
+          align-items: center;
+        }
+        .header-title {
+          padding-right: 20px;
+          font-weight: 600;
+          text-transform: uppercase;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          .contact-point-actions {
+
+          }
+        }
+      }
+    }
+  }
+  .empty-tag {
+    text-align: left;
+  }
+}

@@ -1,0 +1,48 @@
+@import "../../../colors";
+.contacts {
+  .contact-item {
+    display: flex;
+    padding: 15px 20px 15px 15px;
+
+    &:not(:last-child) {
+      border-bottom: 1px solid $background-grey;
+    }
+    .contact-info {
+      flex: 1;
+      a {
+        font-weight: 600;
+      }
+    }
+    .contact-photo {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background-color: rgba(black, 0.1);
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      margin-right: 15px;
+      font-size: 14px;
+      font-weight: 600;
+      color: grey;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+    .contact-actions {
+      display: flex;
+      align-items: center;
+    }
+    &.disabled {
+      background: $background-grey;
+      opacity: 0.5
+    }
+  }
+  .load-more-button {
+    color: grey;
+    padding: 10px 0;
+    cursor: pointer;
+    text-align: center;
+    font-weight: 600;
+  }
+}

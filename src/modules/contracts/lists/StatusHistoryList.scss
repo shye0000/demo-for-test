@@ -1,0 +1,24 @@
+.status-history-list {
+  .ant-table-body {
+    &>table {
+      padding: 0!important;
+    }
+  }
+  .status-wrapper {
+    .status {
+      margin-right: 20px;
+      display: flex;
+      align-items: center;
+      .status-point {
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        margin-right: 5px;
+      }
+      .status-label {
+        flex: 1;
+        font-weight: 600;
+      }
+    }
+  }
+}

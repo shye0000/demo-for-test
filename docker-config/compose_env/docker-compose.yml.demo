@@ -1,0 +1,13 @@
+version: '3'
+services:
+  react:
+    build: .
+    container_name: qhs_front_demo
+    environment:
+      - GITLAB_IP=$GITLAB_IP
+      - ENV=$ENV
+    volumes:
+      - ./:/app:rw
+    ports:
+      - "8888:8888"
+    tty: true

@@ -1,0 +1,23 @@
+.contact-point-Info {
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-top: 20px;
+  .title {
+    color: grey;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+  }
+  .empty-tag {
+    text-align: left;
+    color: rgba(black, .4);
+    padding: 10px 0;
+  }
+  .info-item {
+    margin: 5px 0;
+    color: black;
+    .value {
+      font-weight: 600;
+    }
+  }
+}

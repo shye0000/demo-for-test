@@ -1,0 +1,18 @@
+.modify-employee-form {
+  .ant-tabs-tab {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .tab-title {
+    font-weight: 600;
+  }
+  .skills-form-tabs {
+    margin-bottom: 5px;
+    .ant-form-item {
+      margin-bottom: 24px;
+      .ant-form-item-label{
+        line-height: normal;
+      }
+    }
+  }
+}

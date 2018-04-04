@@ -1,0 +1,40 @@
+@import "../../../colors";
+.unavailability {
+  position: relative;
+  .unavailability-item {
+    display: flex;
+    padding: 15px 20px;
+    &:not(:last-child) {
+      border-bottom: 1px solid $nav-grey;
+    }
+    .flag {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      background-color: rgba( $blue, .1 );
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      color: $blue;
+      margin-right: 13px;
+      font-size: 16px;
+      fill: $blue;
+    }
+    .content {
+      flex: 1;
+      .name {
+        font-weight: 600;
+
+      }
+    }
+  }
+  .pagination {
+    text-align: right;
+    padding: 15px 20px;
+    &>button {
+      &:not(:last-child) {
+        margin-right: 5px;
+      }
+    }
+  }
+}

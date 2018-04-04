@@ -1,0 +1,7768 @@
+{
+  "100": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractTypes.js",
+        5
+      ]
+    ]
+  },
+  "200": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractTypes.js",
+        9
+      ]
+    ]
+  },
+  "300": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractTypes.js",
+        13
+      ]
+    ]
+  },
+  "400": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractTypes.js",
+        17
+      ]
+    ]
+  },
+  "500": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractTypes.js",
+        21
+      ]
+    ]
+  },
+  "600": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractTypes.js",
+        25
+      ]
+    ]
+  },
+  "800": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractTypes.js",
+        29
+      ]
+    ]
+  },
+  "900": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractTypes.js",
+        33
+      ]
+    ]
+  },
+  "Changer mon mot de passe": {
+    "translation": "",
+    "origin": [
+      [
+        "src/AppUserMenu.js",
+        31
+      ]
+    ]
+  },
+  "Connexion en cours...": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Logging.js",
+        13
+      ]
+    ]
+  },
+  "Bienvenue": {
+    "translation": "",
+    "origin": [
+      [
+        "src/LoginPage.js",
+        40
+      ],
+      [
+        "src/modules/home/HomePage.js",
+        27
+      ]
+    ]
+  },
+  "Veuillez renseigner votre email": {
+    "translation": "",
+    "origin": [
+      [
+        "src/LoginPage.js",
+        44
+      ]
+    ]
+  },
+  "Votre adresse mail": {
+    "translation": "",
+    "origin": [
+      [
+        "src/LoginPage.js",
+        48
+      ]
+    ]
+  },
+  "Veuillez renseigner votre mot de passe": {
+    "translation": "",
+    "origin": [
+      [
+        "src/LoginPage.js",
+        54
+      ]
+    ]
+  },
+  "Votre mot de passe": {
+    "translation": "",
+    "origin": [
+      [
+        "src/LoginPage.js",
+        58
+      ]
+    ]
+  },
+  "Connectez-vous": {
+    "translation": "",
+    "origin": [
+      [
+        "src/LoginPage.js",
+        65
+      ]
+    ]
+  },
+  "Déconnexion": {
+    "translation": "",
+    "origin": [
+      [
+        "src/LogoutLink.js",
+        21
+      ]
+    ]
+  },
+  "Accueil": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        46
+      ]
+    ]
+  },
+  "Clients": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        53
+      ]
+    ]
+  },
+  "Organisations": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        58
+      ],
+      [
+        "src/modules/contacts/List.js",
+        58
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        153
+      ],
+      [
+        "src/modules/divisions/lists/DivisionsList.js",
+        15
+      ],
+      [
+        "src/modules/divisions/lists/SitesList.js",
+        73
+      ],
+      [
+        "src/modules/home/HomePage.js",
+        39
+      ]
+    ]
+  },
+  "Sites": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        63
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        196
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        352
+      ],
+      [
+        "src/modules/divisions/lists/SitesList.js",
+        71
+      ]
+    ]
+  },
+  "Salariés tiers": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        70
+      ],
+      [
+        "src/modules/contacts/List.js",
+        55
+      ]
+    ]
+  },
+  "Contrats et devis": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        94
+      ],
+      [
+        "src/Navigation.js",
+        99
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        135
+      ],
+      [
+        "src/modules/home/HomePage.js",
+        51
+      ]
+    ]
+  },
+  "Validation des dossiers": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        104
+      ]
+    ]
+  },
+  "Urgences": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        109
+      ],
+      [
+        "src/modules/home/HomePage.js",
+        63
+      ]
+    ]
+  },
+  "Calendrier des services": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        116
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        422
+      ]
+    ]
+  },
+  "Salariés et véhicules": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        122
+      ]
+    ]
+  },
+  "Salariés": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        129
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        143
+      ],
+      [
+        "src/modules/divisions/forms/AddContactPointContactForm.js",
+        52
+      ],
+      [
+        "src/modules/divisions/forms/AddContactPointContactForm.js",
+        62
+      ],
+      [
+        "src/modules/employees/List.js",
+        39
+      ]
+    ]
+  },
+  "Véhicules": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        136
+      ],
+      [
+        "src/modules/vehicles/List.js",
+        46
+      ]
+    ]
+  },
+  "Facturation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        143
+      ],
+      [
+        "src/apiConstants/DataPointTypes.js",
+        5
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        527
+      ]
+    ]
+  },
+  "Anomalies": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        151
+      ]
+    ]
+  },
+  "Paramètres": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        179
+      ]
+    ]
+  },
+  "Utilisateurs": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        186
+      ]
+    ]
+  },
+  "Types de prestation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        193
+      ]
+    ]
+  },
+  "Types de produit": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        200
+      ]
+    ]
+  },
+  "Compétences": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        207
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        168
+      ],
+      [
+        "src/modules/employees/Form.js",
+        357
+      ],
+      [
+        "src/modules/employees/Form.js",
+        366
+      ]
+    ]
+  },
+  "Taux de TVA": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        214
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        71
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        186
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        188
+      ]
+    ]
+  },
+  "Types de véhicule": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        221
+      ]
+    ]
+  },
+  "Echéance par défaut des factures": {
+    "translation": "",
+    "origin": [
+      [
+        "src/Navigation.js",
+        228
+      ]
+    ]
+  },
+  "Bon de commande": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractDocumentTypes.js",
+        5
+      ]
+    ]
+  },
+  "Document DC4": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractDocumentTypes.js",
+        9
+      ]
+    ]
+  },
+  "Description de devis": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractDocumentTypes.js",
+        13
+      ]
+    ]
+  },
+  "Autre": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractDocumentTypes.js",
+        17
+      ]
+    ]
+  },
+  "CDD": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractEmployeeTypes.js",
+        5
+      ]
+    ]
+  },
+  "CDI": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractEmployeeTypes.js",
+        9
+      ]
+    ]
+  },
+  "Interim": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractEmployeeTypes.js",
+        13
+      ]
+    ]
+  },
+  "Avenant": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractNatures.js",
+        5
+      ]
+    ]
+  },
+  "Contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractNatures.js",
+        9
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        152
+      ]
+    ]
+  },
+  "Devis": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractNatures.js",
+        13
+      ]
+    ]
+  },
+  "Annulé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractRefusedReasons.js",
+        5
+      ]
+    ]
+  },
+  "Refus interne": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractRefusedReasons.js",
+        9
+      ]
+    ]
+  },
+  "Refus client": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractRefusedReasons.js",
+        13
+      ]
+    ]
+  },
+  "Offre expirée": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractRefusedReasons.js",
+        17
+      ]
+    ]
+  },
+  "En cours de création": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractStatus.js",
+        5
+      ]
+    ]
+  },
+  "En validation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractStatus.js",
+        10
+      ]
+    ]
+  },
+  "Refusé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractStatus.js",
+        15
+      ]
+    ]
+  },
+  "Validé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractStatus.js",
+        20
+      ]
+    ]
+  },
+  "Envoyé au client": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractStatus.js",
+        25
+      ]
+    ]
+  },
+  "Activé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractStatus.js",
+        30
+      ],
+      [
+        "src/modules/setting/users/Form.js",
+        180
+      ]
+    ]
+  },
+  "Suspendu": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractStatus.js",
+        35
+      ]
+    ]
+  },
+  "Clos": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ContractStatus.js",
+        40
+      ]
+    ]
+  },
+  "Achat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/DataPointTypes.js",
+        9
+      ]
+    ]
+  },
+  "Responsable site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/DataPointTypes.js",
+        13
+      ]
+    ]
+  },
+  "Pré-intervention": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/DataPointTypes.js",
+        17
+      ]
+    ]
+  },
+  "Technicien": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeTypes.js",
+        5
+      ]
+    ]
+  },
+  "Commercial": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeTypes.js",
+        9
+      ]
+    ]
+  },
+  "Chef": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeTypes.js",
+        13
+      ]
+    ]
+  },
+  "Congé payé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeUnavailabilityTypes.js",
+        5
+      ]
+    ]
+  },
+  "Congé exceptionnel": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeUnavailabilityTypes.js",
+        9
+      ]
+    ]
+  },
+  "Congé sans solde": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeUnavailabilityTypes.js",
+        13
+      ]
+    ]
+  },
+  "Congé paternité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeUnavailabilityTypes.js",
+        17
+      ]
+    ]
+  },
+  "Congé maternité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeUnavailabilityTypes.js",
+        21
+      ]
+    ]
+  },
+  "Congé parental": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeUnavailabilityTypes.js",
+        25
+      ]
+    ]
+  },
+  "Arrêt maladie": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeUnavailabilityTypes.js",
+        29
+      ]
+    ]
+  },
+  "Absence injustifiée": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/EmployeeUnavailabilityTypes.js",
+        33
+      ]
+    ]
+  },
+  "Femme": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/Genders.js",
+        5
+      ]
+    ]
+  },
+  "Homme": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/Genders.js",
+        9
+      ]
+    ]
+  },
+  "SOOTBLOWER": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ServiceReferences.js",
+        5
+      ]
+    ]
+  },
+  "DEGREASING": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ServiceReferences.js",
+        9
+      ]
+    ]
+  },
+  "SANITATION": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ServiceReferences.js",
+        13
+      ]
+    ]
+  },
+  "COMMERCIALS": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ServiceReferences.js",
+        17
+      ]
+    ]
+  },
+  "RH": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ServiceReferences.js",
+        21
+      ]
+    ]
+  },
+  "BILLING": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ServiceReferences.js",
+        25
+      ]
+    ]
+  },
+  "STORE": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ServiceReferences.js",
+        29
+      ]
+    ]
+  },
+  "OTHER": {
+    "translation": "",
+    "origin": [
+      [
+        "src/apiConstants/ServiceReferences.js",
+        33
+      ]
+    ]
+  },
+  "Choisir": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/ColorPicker/index.js",
+        71
+      ]
+    ]
+  },
+  "le fichier a bien été téléchargé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/FileUpload/index.js",
+        43
+      ]
+    ]
+  },
+  "le fichier n'a pas été téléchargé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/FileUpload/index.js",
+        46
+      ]
+    ]
+  },
+  "Cliquer ou faire glisser un fichier ici": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/FileUpload/index.js",
+        61
+      ]
+    ]
+  },
+  "Précédent": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/MultiStepsForm/index.js",
+        191
+      ]
+    ]
+  },
+  "Suivant": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/MultiStepsForm/index.js",
+        198
+      ]
+    ]
+  },
+  "Numéro de téléphone invalide": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/PhoneNumberField/index.js",
+        29
+      ]
+    ]
+  },
+  "Numéro": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/PhoneNumberField/index.js",
+        53
+      ]
+    ]
+  },
+  "Ajouter une pièce jointe": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/AddDocumentModal.js",
+        13
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        468
+      ],
+      [
+        "src/modules/contracts/modals/AddContractDocumentModal.js",
+        13
+      ],
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        178
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        178
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        210
+      ],
+      [
+        "src/modules/vehicles/Dashboard.js",
+        116
+      ]
+    ]
+  },
+  "Ajouter": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/AddDocumentModal.js",
+        14
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        63
+      ],
+      [
+        "src/modules/contracts/forms/AddContract.js",
+        88
+      ],
+      [
+        "src/modules/contracts/modals/AddContractDocumentModal.js",
+        14
+      ],
+      [
+        "src/modules/divisions/AddDivision.js",
+        83
+      ],
+      [
+        "src/modules/divisions/AddSubdivision.js",
+        83
+      ],
+      [
+        "src/modules/divisions/modals/AddContactModal.js",
+        14
+      ],
+      [
+        "src/modules/divisions/modals/AddContactPointContactModal.js",
+        14
+      ],
+      [
+        "src/modules/divisions/modals/AddContactPointModal.js",
+        14
+      ],
+      [
+        "src/modules/divisions/modals/AddDivisionModal.js",
+        31
+      ],
+      [
+        "src/modules/divisions/modals/AddSubDivisionModal.js",
+        31
+      ],
+      [
+        "src/modules/employees/AddUnavailabilityModal.js",
+        14
+      ],
+      [
+        "src/modules/employees/Form.js",
+        498
+      ],
+      [
+        "src/modules/vehicles/AddUnavailabilityModal.js",
+        14
+      ],
+      [
+        "src/modules/vehicles/AddVehicle.js",
+        83
+      ]
+    ]
+  },
+  "La pièce jointe a bien été ajoutée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/AddDocumentModal.js",
+        33
+      ],
+      [
+        "src/modules/contracts/modals/AddContractDocumentModal.js",
+        34
+      ]
+    ]
+  },
+  "La pièce jointe n'a pas été ajoutée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/AddDocumentModal.js",
+        37
+      ],
+      [
+        "src/modules/contracts/modals/AddContractDocumentModal.js",
+        38
+      ]
+    ]
+  },
+  "Titre": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/DocumentForm.js",
+        29
+      ],
+      [
+        "src/components/dashboardBoxes/DocumentForm.js",
+        37
+      ],
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        85
+      ],
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        89
+      ]
+    ]
+  },
+  "Veuillez renseigner le titre": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/DocumentForm.js",
+        32
+      ],
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        87
+      ]
+    ]
+  },
+  "Veuillez sélectionner un fichier": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/DocumentForm.js",
+        44
+      ],
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        180
+      ]
+    ]
+  },
+  "Supprimer": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/Documents.js",
+        73
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        55
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        60
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        74
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/LinkedContracts.js",
+        31
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/TimeConstraintsField.js",
+        97
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPoints.js",
+        127
+      ],
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        109
+      ],
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        58
+      ],
+      [
+        "src/modules/setting/productTypes/Dashboard.js",
+        48
+      ],
+      [
+        "src/modules/setting/skills/Dashboard.js",
+        41
+      ],
+      [
+        "src/modules/setting/users/Dashboard.js",
+        58
+      ],
+      [
+        "src/modules/setting/vatRates/Dashboard.js",
+        41
+      ],
+      [
+        "src/modules/setting/vehicleTypes/Dashboard.js",
+        41
+      ],
+      [
+        "src/modules/vehicles/dashboardBoxes/Unavailability.js",
+        80
+      ]
+    ]
+  },
+  "Voulez-vous supprimer cette pièce jointe?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/Documents.js",
+        78
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        80
+      ]
+    ]
+  },
+  "Oui": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/Documents.js",
+        79
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        172
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        81
+      ],
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        163
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        265
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        183
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        89
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPoints.js",
+        132
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        128
+      ],
+      [
+        "src/modules/employees/Form.js",
+        473
+      ],
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        114
+      ],
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        63
+      ],
+      [
+        "src/modules/setting/productTypes/Dashboard.js",
+        53
+      ],
+      [
+        "src/modules/setting/skills/Dashboard.js",
+        46
+      ],
+      [
+        "src/modules/setting/users/Dashboard.js",
+        63
+      ],
+      [
+        "src/modules/setting/users/Form.js",
+        184
+      ],
+      [
+        "src/modules/setting/vatRates/Dashboard.js",
+        46
+      ],
+      [
+        "src/modules/setting/vehicleTypes/Dashboard.js",
+        46
+      ]
+    ]
+  },
+  "Non": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/Documents.js",
+        81
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        174
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        62
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        83
+      ],
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        166
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        262
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        185
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        91
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPoints.js",
+        134
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        130
+      ],
+      [
+        "src/modules/employees/Form.js",
+        476
+      ],
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        116
+      ],
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        65
+      ],
+      [
+        "src/modules/setting/productTypes/Dashboard.js",
+        55
+      ],
+      [
+        "src/modules/setting/skills/Dashboard.js",
+        48
+      ],
+      [
+        "src/modules/setting/users/Dashboard.js",
+        65
+      ],
+      [
+        "src/modules/setting/users/Form.js",
+        187
+      ],
+      [
+        "src/modules/setting/vatRates/Dashboard.js",
+        48
+      ],
+      [
+        "src/modules/setting/vehicleTypes/Dashboard.js",
+        48
+      ]
+    ]
+  },
+  "La pièce jointe a bien été supprimée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/Documents.js",
+        90
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        92
+      ]
+    ]
+  },
+  "La pièce jointe n'a pas été supprimée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/Documents.js",
+        92
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        94
+      ]
+    ]
+  },
+  "Ajouté le": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/Documents.js",
+        47
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        48
+      ],
+      [
+        "src/modules/setting/users/Dashboard.js",
+        35
+      ]
+    ]
+  },
+  "par": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/Documents.js",
+        49
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        50
+      ]
+    ]
+  },
+  "le système": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/Documents.js",
+        55
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        56
+      ]
+    ]
+  },
+  "Aucune pièce jointe": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/dashboardBoxes/Documents.js",
+        131
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        146
+      ]
+    ]
+  },
+  "Affichage de": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/list/List.js",
+        37
+      ]
+    ]
+  },
+  "à": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/list/List.js",
+        39
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        132
+      ]
+    ]
+  },
+  "de": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/list/List.js",
+        41
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        128
+      ]
+    ]
+  },
+  "résultats": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/list/List.js",
+        43
+      ]
+    ]
+  },
+  "Recherche": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/list/SearchField.js",
+        50
+      ]
+    ]
+  },
+  "Veuillez renseigner ce champ.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/list/filters/Filters.js",
+        64
+      ]
+    ]
+  },
+  "Appliquer": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/list/filters/Filters.js",
+        74
+      ]
+    ]
+  },
+  "Réinitialiser": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/list/filters/Filters.js",
+        79
+      ]
+    ]
+  },
+  "Filtres": {
+    "translation": "",
+    "origin": [
+      [
+        "src/components/list/filters/Filters.js",
+        142
+      ]
+    ]
+  },
+  "Photo du salarié tiers": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        111
+      ]
+    ]
+  },
+  "Prénom": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        124
+      ],
+      [
+        "src/modules/contacts/ContactForm.js",
+        131
+      ],
+      [
+        "src/modules/employees/Form.js",
+        167
+      ],
+      [
+        "src/modules/employees/Form.js",
+        174
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        151
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        158
+      ],
+      [
+        "src/modules/setting/users/List.js",
+        31
+      ]
+    ]
+  },
+  "Veuillez renseigner le prénom": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        128
+      ],
+      [
+        "src/modules/employees/Form.js",
+        171
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        155
+      ]
+    ]
+  },
+  "Nom": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        137
+      ],
+      [
+        "src/modules/contacts/ContactForm.js",
+        144
+      ],
+      [
+        "src/modules/contacts/List.js",
+        99
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        116
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        197
+      ],
+      [
+        "src/modules/divisions/lists/DivisionsList.js",
+        26
+      ],
+      [
+        "src/modules/divisions/lists/SitesList.js",
+        115
+      ],
+      [
+        "src/modules/employees/Form.js",
+        180
+      ],
+      [
+        "src/modules/employees/Form.js",
+        187
+      ],
+      [
+        "src/modules/employees/List.js",
+        112
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        164
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        171
+      ],
+      [
+        "src/modules/setting/productTypes/Form.js",
+        80
+      ],
+      [
+        "src/modules/setting/productTypes/List.js",
+        27
+      ],
+      [
+        "src/modules/setting/users/List.js",
+        40
+      ]
+    ]
+  },
+  "Veuillez renseigner le nom": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        141
+      ],
+      [
+        "src/modules/employees/Form.js",
+        184
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        168
+      ],
+      [
+        "src/modules/setting/productTypes/Form.js",
+        84
+      ]
+    ]
+  },
+  "Genre": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        150
+      ],
+      [
+        "src/modules/contacts/ContactForm.js",
+        159
+      ],
+      [
+        "src/modules/employees/Form.js",
+        193
+      ],
+      [
+        "src/modules/employees/Form.js",
+        200
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        177
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        186
+      ]
+    ]
+  },
+  "Veuillez renseigner le genre": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        154
+      ],
+      [
+        "src/modules/employees/Form.js",
+        197
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        181
+      ]
+    ]
+  },
+  "E-mail": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        172
+      ],
+      [
+        "src/modules/contacts/ContactForm.js",
+        174
+      ],
+      [
+        "src/modules/contacts/Dashboard.js",
+        86
+      ],
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        94
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        93
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        274
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        276
+      ],
+      [
+        "src/modules/divisions/lists/DivisionsList.js",
+        74
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        90
+      ],
+      [
+        "src/modules/employees/Form.js",
+        250
+      ],
+      [
+        "src/modules/employees/Form.js",
+        252
+      ],
+      [
+        "src/modules/employees/List.js",
+        157
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        238
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        240
+      ]
+    ]
+  },
+  "Téléphone principal": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        180
+      ],
+      [
+        "src/modules/contacts/Dashboard.js",
+        89
+      ]
+    ]
+  },
+  "Téléphone secondaire": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        189
+      ],
+      [
+        "src/modules/contacts/Dashboard.js",
+        94
+      ]
+    ]
+  },
+  "Fax": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        198
+      ],
+      [
+        "src/modules/contacts/Dashboard.js",
+        97
+      ],
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        89
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        90
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        193
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        266
+      ],
+      [
+        "src/modules/divisions/lists/DivisionsList.js",
+        66
+      ]
+    ]
+  },
+  "Date de sortie": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        207
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        115
+      ],
+      [
+        "src/modules/employees/Form.js",
+        394
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        343
+      ]
+    ]
+  },
+  "JJ/MM/AAAA": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        212
+      ],
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        116
+      ],
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        128
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        336
+      ],
+      [
+        "src/modules/contracts/forms/SetStatusForm.js",
+        67
+      ],
+      [
+        "src/modules/employees/DownloadUnavailabilityForm.js",
+        76
+      ],
+      [
+        "src/modules/employees/Form.js",
+        234
+      ],
+      [
+        "src/modules/employees/Form.js",
+        384
+      ],
+      [
+        "src/modules/employees/Form.js",
+        399
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        221
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        331
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        348
+      ]
+    ]
+  },
+  "Poste": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        225
+      ],
+      [
+        "src/modules/contacts/ContactForm.js",
+        227
+      ],
+      [
+        "src/modules/contacts/Dashboard.js",
+        83
+      ],
+      [
+        "src/modules/contacts/List.js",
+        127
+      ]
+    ]
+  },
+  "Commentaire interne": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ContactForm.js",
+        234
+      ],
+      [
+        "src/modules/contacts/ContactForm.js",
+        236
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        525
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        528
+      ],
+      [
+        "src/modules/contracts/forms/SetStatusForm.js",
+        76
+      ],
+      [
+        "src/modules/contracts/forms/SetStatusForm.js",
+        78
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        91
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        100
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        114
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        133
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        220
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        222
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BuyingFormBody.js",
+        53
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BuyingFormBody.js",
+        55
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/PreInterventionFormBody.js",
+        79
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/PreInterventionFormBody.js",
+        81
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/SiteManagerFormBody.js",
+        80
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/SiteManagerFormBody.js",
+        82
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        209
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        211
+      ]
+    ]
+  },
+  "Modifier les informations": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/Dashboard.js",
+        115
+      ],
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        105
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        118
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        150
+      ],
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        48
+      ],
+      [
+        "src/modules/setting/invoicesDueDateDays/Dashboard.js",
+        28
+      ],
+      [
+        "src/modules/setting/productTypes/Dashboard.js",
+        38
+      ],
+      [
+        "src/modules/setting/skills/Dashboard.js",
+        31
+      ],
+      [
+        "src/modules/setting/users/Dashboard.js",
+        48
+      ],
+      [
+        "src/modules/setting/vatRates/Dashboard.js",
+        31
+      ],
+      [
+        "src/modules/setting/vehicleTypes/Dashboard.js",
+        31
+      ],
+      [
+        "src/modules/vehicles/Dashboard.js",
+        80
+      ]
+    ]
+  },
+  "Points de contacts liés": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/Dashboard.js",
+        129
+      ]
+    ]
+  },
+  "En poste": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/Dashboard.js",
+        51
+      ]
+    ]
+  },
+  "{0}": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/Dashboard.js",
+        55
+      ]
+    ]
+  },
+  "Mme.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/Dashboard.js",
+        29
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        36
+      ]
+    ]
+  },
+  "M.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/Dashboard.js",
+        31
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        38
+      ]
+    ]
+  },
+  "Le salarié tiers n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/Dashboard.js",
+        176
+      ]
+    ]
+  },
+  "Rechercher": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/List.js",
+        88
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        184
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        227
+      ],
+      [
+        "src/modules/divisions/lists/SitesList.js",
+        104
+      ],
+      [
+        "src/modules/employees/List.js",
+        64
+      ],
+      [
+        "src/modules/vehicles/List.js",
+        65
+      ]
+    ]
+  },
+  "Organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/List.js",
+        108
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        307
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        335
+      ],
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        60
+      ]
+    ]
+  },
+  "Téléphone": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/List.js",
+        119
+      ],
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        86
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        85
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        185
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        258
+      ],
+      [
+        "src/modules/divisions/lists/DivisionsList.js",
+        58
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        87
+      ],
+      [
+        "src/modules/employees/Form.js",
+        242
+      ],
+      [
+        "src/modules/employees/List.js",
+        146
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        229
+      ]
+    ]
+  },
+  "Modifier les informations du salarié tiers": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ModifyContactModal.js",
+        13
+      ],
+      [
+        "src/modules/divisions/modals/ModifyContactModal.js",
+        23
+      ]
+    ]
+  },
+  "Modifier": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ModifyContactModal.js",
+        14
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        39
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        495
+      ],
+      [
+        "src/modules/contracts/modals/ModifyBillingInfoModal.js",
+        14
+      ],
+      [
+        "src/modules/contracts/modals/ModifyCommercialDiscountModal.js",
+        14
+      ],
+      [
+        "src/modules/contracts/modals/ModifyContractModal.js",
+        14
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/Contacts.js",
+        76
+      ],
+      [
+        "src/modules/divisions/modals/ModifyContactModal.js",
+        24
+      ],
+      [
+        "src/modules/divisions/modals/ModifyDivisionModal.js",
+        30
+      ],
+      [
+        "src/modules/divisions/modals/ModifySubDivisionModal.js",
+        30
+      ],
+      [
+        "src/modules/employees/ModifyEmloyeeModal.js",
+        14
+      ],
+      [
+        "src/modules/employees/ModifySkillsModal.js",
+        13
+      ],
+      [
+        "src/modules/employees/ModifyUnavailabilityModal.js",
+        14
+      ],
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        98
+      ],
+      [
+        "src/modules/vehicles/ModifyUnavailabilityModal.js",
+        14
+      ],
+      [
+        "src/modules/vehicles/ModifyVehicleModal.js",
+        14
+      ],
+      [
+        "src/modules/vehicles/dashboardBoxes/Unavailability.js",
+        69
+      ]
+    ]
+  },
+  "Le salarié tiers a été bien modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ModifyContactModal.js",
+        40
+      ]
+    ]
+  },
+  "Le salarié tiers n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/ModifyContactModal.js",
+        61
+      ],
+      [
+        "src/modules/divisions/modals/ModifyContactModal.js",
+        71
+      ]
+    ]
+  },
+  "Point de contact": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/dashboardBoxes/DataPoint.js",
+        63
+      ]
+    ]
+  },
+  "Ce salarié tiers n'est inclus dans aucun point de contact": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contacts/dashboardBoxes/DataPoint.js",
+        93
+      ]
+    ]
+  },
+  "Aucun avenant": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/AdditionalClauses.js",
+        63
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/LinkedContracts.js",
+        115
+      ]
+    ]
+  },
+  "Occurences": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        112
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        186
+      ]
+    ]
+  },
+  "fois": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        116
+      ]
+    ]
+  },
+  "Contraintes horaires": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        119
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/TimeConstraintsField.js",
+        146
+      ]
+    ]
+  },
+  "Le": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        126
+      ]
+    ]
+  },
+  "h": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        130
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        134
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        141
+      ],
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        146
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/TimeConstraintsField.js",
+        75
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/TimeConstraintsField.js",
+        94
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        139
+      ]
+    ]
+  },
+  "Du": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        138
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        225
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/TimeConstraintsField.js",
+        58
+      ],
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        169
+      ],
+      [
+        "src/modules/vehicles/dashboardBoxes/Unavailability.js",
+        122
+      ]
+    ]
+  },
+  "au": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        143
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        227
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/TimeConstraintsField.js",
+        76
+      ],
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        171
+      ],
+      [
+        "src/modules/vehicles/dashboardBoxes/Unavailability.js",
+        124
+      ]
+    ]
+  },
+  "Contrainte autre": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        152
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/ConstraintAndOthers.js",
+        44
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/ConstraintAndOthers.js",
+        46
+      ]
+    ]
+  },
+  "Quantité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        155
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        171
+      ]
+    ]
+  },
+  "Prix unitaire HT": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        158
+      ]
+    ]
+  },
+  "Prix total HT": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        164
+      ]
+    ]
+  },
+  "E-mails pré-intervention": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        170
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/ConstraintAndOthers.js",
+        52
+      ]
+    ]
+  },
+  "Voulez-vous supprimer cette prestation?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        59
+      ]
+    ]
+  },
+  "La prestation a été bien supprimée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        70
+      ]
+    ]
+  },
+  "La prestation n'a pas été supprimée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        72
+      ]
+    ]
+  },
+  "Vous n'avez pas encore ajouté de prestation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Benefits.js",
+        291
+      ]
+    ]
+  },
+  "Aucun contact": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/BuyingDataPoint.js",
+        100
+      ],
+      [
+        "src/modules/contracts/forms/SelectBuyingDataPointForm.js",
+        153
+      ]
+    ]
+  },
+  "Vous n'avez pas encore sélectionné le point de contact achat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/BuyingDataPoint.js",
+        106
+      ]
+    ]
+  },
+  "n°": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/Documents.js",
+        130
+      ]
+    ]
+  },
+  "Supprimer le lien avec ce contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/LinkedContracts.js",
+        26
+      ]
+    ]
+  },
+  "Voulez vous supprimer le lien avec ce contrat?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/LinkedContracts.js",
+        30
+      ]
+    ]
+  },
+  "Annuler": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/LinkedContracts.js",
+        33
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        96
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        64
+      ],
+      [
+        "src/modules/contracts/forms/AddContract.js",
+        91
+      ],
+      [
+        "src/modules/divisions/AddDivision.js",
+        86
+      ],
+      [
+        "src/modules/divisions/AddSubdivision.js",
+        86
+      ],
+      [
+        "src/modules/employees/Form.js",
+        503
+      ],
+      [
+        "src/modules/setting/benefitTypes/AddBenefitType.js",
+        87
+      ],
+      [
+        "src/modules/setting/productTypes/AddProductType.js",
+        86
+      ],
+      [
+        "src/modules/setting/skills/AddSkill.js",
+        86
+      ],
+      [
+        "src/modules/setting/users/AddUser.js",
+        88
+      ],
+      [
+        "src/modules/setting/vatRates/AddVatRate.js",
+        86
+      ],
+      [
+        "src/modules/setting/vehicleTypes/AddVehicleType.js",
+        86
+      ],
+      [
+        "src/modules/vehicles/AddVehicle.js",
+        86
+      ]
+    ]
+  },
+  "Le lien avec ce contrat a été bien supprimé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/LinkedContracts.js",
+        46
+      ]
+    ]
+  },
+  "Le lien avec ce contrat n'a pas été supprimé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboardBoxes/LinkedContracts.js",
+        49
+      ]
+    ]
+  },
+  "Sur bon de commande": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        207
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        409
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        412
+      ]
+    ]
+  },
+  "Reconduction tacite": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        210
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        394
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        397
+      ]
+    ]
+  },
+  "Mode DC4": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        213
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        424
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        427
+      ]
+    ]
+  },
+  "Auto-liquidation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        216
+      ]
+    ]
+  },
+  "Dates": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        222
+      ]
+    ]
+  },
+  "Durée": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        232
+      ]
+    ]
+  },
+  "mois": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        236
+      ]
+    ]
+  },
+  "Date de clôture": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        239
+      ],
+      [
+        "src/modules/contracts/forms/SetStatusForm.js",
+        58
+      ]
+    ]
+  },
+  "Note de bas de tableau": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        242
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        514
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        517
+      ]
+    ]
+  },
+  "En charge": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        247
+      ]
+    ]
+  },
+  "Validé par": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        253
+      ]
+    ]
+  },
+  "Montant total": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        261
+      ]
+    ]
+  },
+  "Modifier les informations du contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        285
+      ]
+    ]
+  },
+  "Voir l'historique des statuts": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        296
+      ]
+    ]
+  },
+  "Prestations": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        308
+      ]
+    ]
+  },
+  "Ajouter une prestation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        312
+      ],
+      [
+        "src/modules/contracts/modals/BenefitFormModal.js",
+        16
+      ]
+    ]
+  },
+  "Calendrier contractuel": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        336
+      ]
+    ]
+  },
+  "Accéder au calendrier contractuel": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        342
+      ]
+    ]
+  },
+  "Télécharger le planning contractuel": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        348
+      ]
+    ]
+  },
+  "Opérations programmées": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        357
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        443
+      ]
+    ]
+  },
+  "Opérations en attente de programmation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        369
+      ],
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        455
+      ]
+    ]
+  },
+  "Avenants": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        380
+      ]
+    ]
+  },
+  "Ajouter un avenant": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        384
+      ]
+    ]
+  },
+  "Contrats liés": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        398
+      ]
+    ]
+  },
+  "Lier à un autre contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        402
+      ],
+      [
+        "src/modules/contracts/modals/AddLinkedContractModal.js",
+        13
+      ]
+    ]
+  },
+  "Accéder au calendrier des services": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        428
+      ]
+    ]
+  },
+  "Liste des interventions": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        434
+      ]
+    ]
+  },
+  "Pièces jointes": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        464
+      ],
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        174
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        174
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        206
+      ],
+      [
+        "src/modules/vehicles/Dashboard.js",
+        112
+      ]
+    ]
+  },
+  "Remise commerciale": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        491
+      ],
+      [
+        "src/modules/contracts/forms/ModifyCommercialDiscountForm.js",
+        49
+      ],
+      [
+        "src/modules/contracts/forms/ModifyCommercialDiscountForm.js",
+        53
+      ]
+    ]
+  },
+  "du montant du contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        513
+      ]
+    ]
+  },
+  "soit": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        515
+      ]
+    ]
+  },
+  "Modifier les informations de facturation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        531
+      ],
+      [
+        "src/modules/contracts/modals/ModifyBillingInfoModal.js",
+        13
+      ]
+    ]
+  },
+  "Configurer la fréquence de facturation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        542
+      ]
+    ]
+  },
+  "Adresse de facturation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        556
+      ]
+    ]
+  },
+  "Référence à reporter sur les factures": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        562
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        140
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        142
+      ]
+    ]
+  },
+  "Le référence client n'a pas encore été renseigné": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        570
+      ]
+    ]
+  },
+  "Fréquence de facturation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        579
+      ]
+    ]
+  },
+  "La fréquence de facturation n'a pas encore été configurée": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        585
+      ]
+    ]
+  },
+  "Point de contact achat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        594
+      ]
+    ]
+  },
+  "Sélectionner un point de contact achat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        598
+      ],
+      [
+        "src/modules/contracts/forms/SetStatusSendToClientForm.js",
+        89
+      ],
+      [
+        "src/modules/contracts/modals/SelectBuyingDataPointModal.js",
+        13
+      ]
+    ]
+  },
+  "Désélectionner le point de contact achat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        610
+      ]
+    ]
+  },
+  "Créé par": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        172
+      ]
+    ]
+  },
+  "le": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        174
+      ]
+    ]
+  },
+  "L'adresse spécifique non renseignée : l'adresse du point de contact facturation sera utilisée": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        143
+      ]
+    ]
+  },
+  "Voulez vous désélectionner le point de contact achat?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        93
+      ]
+    ]
+  },
+  "Désélectionner": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        94
+      ]
+    ]
+  },
+  "Le point de contact achat a été bien désélectionné.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        107
+      ]
+    ]
+  },
+  "Le point de contact achat n'a pas été désélectionné.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        111
+      ]
+    ]
+  },
+  "Voulez vous ajouter un avenant sur ce contrat?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        62
+      ]
+    ]
+  },
+  "L'avenant a été bien ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        78
+      ]
+    ]
+  },
+  "L'avenant n'a pas été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        82
+      ]
+    ]
+  },
+  "Le contrat n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/dashboards/ContractDashboard.js",
+        664
+      ]
+    ]
+  },
+  "Le contrat a bien été créé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/AddContract.js",
+        53
+      ]
+    ]
+  },
+  "Le contrat n'a pas été créé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/AddContract.js",
+        59
+      ]
+    ]
+  },
+  "Contrat lié": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/AddLinkedContractForm.js",
+        92
+      ]
+    ]
+  },
+  "Veuillez sélectionner un contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/AddLinkedContractForm.js",
+        94
+      ]
+    ]
+  },
+  "Rechercher et sélectionner un contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/AddLinkedContractForm.js",
+        99
+      ]
+    ]
+  },
+  "(avenant)": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/AddLinkedContractForm.js",
+        108
+      ]
+    ]
+  },
+  "(Déjà lié)": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/AddLinkedContractForm.js",
+        114
+      ]
+    ]
+  },
+  "Choix du site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/BenefitForm.js",
+        14
+      ]
+    ]
+  },
+  "Infos. prestation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/BenefitForm.js",
+        22
+      ]
+    ]
+  },
+  "Contraintes et autres": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/BenefitForm.js",
+        30
+      ]
+    ]
+  },
+  "Modifier prestation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/BenefitForm.js",
+        47
+      ]
+    ]
+  },
+  "Ajouter prestation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/BenefitForm.js",
+        49
+      ]
+    ]
+  },
+  "Numéro de bon de commande": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        97
+      ],
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        101
+      ]
+    ]
+  },
+  "Veuillez renseigner le numéro de bon de commande": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        99
+      ]
+    ]
+  },
+  "Début de validité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        109
+      ]
+    ]
+  },
+  "Veuillez renseigner la date de début de validité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        113
+      ]
+    ]
+  },
+  "Fin de validité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        121
+      ]
+    ]
+  },
+  "Veuillez renseigner la date de fin de validité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        125
+      ]
+    ]
+  },
+  "Type": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        139
+      ],
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        146
+      ],
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        229
+      ],
+      [
+        "src/modules/vehicles/Dashboard.js",
+        56
+      ],
+      [
+        "src/modules/vehicles/List.js",
+        79
+      ],
+      [
+        "src/modules/vehicles/List.js",
+        83
+      ],
+      [
+        "src/modules/vehicles/List.js",
+        108
+      ]
+    ]
+  },
+  "Veuillez renseigner le type": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        143
+      ]
+    ]
+  },
+  "Validité permanente": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/ContractDocumentForm.js",
+        159
+      ]
+    ]
+  },
+  "Organisation ou sous-organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        296
+      ]
+    ]
+  },
+  "Veuillez renseigner une organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        300
+      ]
+    ]
+  },
+  "Date de début": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        327
+      ],
+      [
+        "src/modules/employees/DownloadUnavailabilityForm.js",
+        83
+      ]
+    ]
+  },
+  "Veuillez renseigner la date de début du contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        331
+      ]
+    ]
+  },
+  "Type de contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        345
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        353
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        132
+      ],
+      [
+        "src/modules/employees/Form.js",
+        417
+      ],
+      [
+        "src/modules/employees/Form.js",
+        426
+      ],
+      [
+        "src/modules/employees/List.js",
+        77
+      ],
+      [
+        "src/modules/employees/List.js",
+        81
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        365
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        372
+      ]
+    ]
+  },
+  "Veuillez renseigner le type de contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        349
+      ],
+      [
+        "src/modules/employees/Form.js",
+        421
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        369
+      ]
+    ]
+  },
+  "Durée (mois)": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        378
+      ]
+    ]
+  },
+  "Veuillez renseigner ce champ": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        382
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        157
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        175
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        190
+      ]
+    ]
+  },
+  "Client en auto-liquidation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        438
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        442
+      ]
+    ]
+  },
+  "Adresse": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        453
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        85
+      ],
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        66
+      ],
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        83
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        82
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        102
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        104
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        93
+      ],
+      [
+        "src/modules/employees/Form.js",
+        258
+      ],
+      [
+        "src/modules/employees/Form.js",
+        260
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        246
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        248
+      ]
+    ]
+  },
+  "Adresse de contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        456
+      ]
+    ]
+  },
+  "Complément d'adresse": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        464
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        467
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        94
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        96
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        110
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        112
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        139
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        141
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        212
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        214
+      ],
+      [
+        "src/modules/employees/Form.js",
+        266
+      ],
+      [
+        "src/modules/employees/Form.js",
+        268
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        254
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        256
+      ]
+    ]
+  },
+  "Code postal": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        475
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        478
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        112
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        114
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        128
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        130
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        157
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        159
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        230
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        232
+      ],
+      [
+        "src/modules/employees/Form.js",
+        284
+      ],
+      [
+        "src/modules/employees/Form.js",
+        286
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        272
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        274
+      ]
+    ]
+  },
+  "Ville": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        485
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        488
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        104
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        106
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        120
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        122
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        149
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        151
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        222
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        224
+      ],
+      [
+        "src/modules/employees/Form.js",
+        276
+      ],
+      [
+        "src/modules/employees/Form.js",
+        278
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        264
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        266
+      ]
+    ]
+  },
+  "Pays": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        495
+      ],
+      [
+        "src/modules/contracts/forms/Form.js",
+        501
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        122
+      ],
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        127
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        138
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        143
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        167
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        172
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        240
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        245
+      ]
+    ]
+  },
+  "Commercial en charge": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        536
+      ]
+    ]
+  },
+  "Veuillez renseigner un commercial en charge": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/Form.js",
+        540
+      ]
+    ]
+  },
+  "Nom de la voie": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/ModifyBillingInfoForm.js",
+        88
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        133
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        206
+      ]
+    ]
+  },
+  "points de contact achat ont été trouvés": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SelectBuyingDataPointForm.js",
+        120
+      ]
+    ]
+  },
+  "Aucun point de contact trouvé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SelectBuyingDataPointForm.js",
+        164
+      ]
+    ]
+  },
+  "Veuillez sélectionner un point de contact": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SelectBuyingDataPointForm.js",
+        171
+      ],
+      [
+        "src/modules/contracts/forms/SetStatusSendToClientForm.js",
+        110
+      ]
+    ]
+  },
+  "Rechercher un salarié tiers en activité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SelectBuyingDataPointForm.js",
+        193
+      ]
+    ]
+  },
+  "Veuillez rechercher et sélectionner salarié tiers": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SelectBuyingDataPointForm.js",
+        197
+      ]
+    ]
+  },
+  "Rechercher un salarié tiers": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SelectBuyingDataPointForm.js",
+        202
+      ]
+    ]
+  },
+  "Raison": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SetStatusForm.js",
+        35
+      ],
+      [
+        "src/modules/contracts/forms/SetStatusForm.js",
+        42
+      ]
+    ]
+  },
+  "Veuillez renseigner une raison": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SetStatusForm.js",
+        39
+      ]
+    ]
+  },
+  "Veuillez renseigner la date de clôture du contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SetStatusForm.js",
+        62
+      ]
+    ]
+  },
+  "Le contrat va être envoyé au contact Achat configuré pour ce contrat:": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SetStatusSendToClientForm.js",
+        55
+      ]
+    ]
+  },
+  "Le point de contact achat n'est pas encore configuré, veuillez en sélectionner un pour ce contrat.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/SetStatusSendToClientForm.js",
+        84
+      ]
+    ]
+  },
+  "Type de prestation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        102
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        110
+      ]
+    ]
+  },
+  "Veuillez sélectionner un type": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        106
+      ],
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        178
+      ]
+    ]
+  },
+  "Titre optionnel": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        125
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        127
+      ]
+    ]
+  },
+  "Descriptif": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        133
+      ]
+    ]
+  },
+  "Commentaire public": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        143
+      ]
+    ]
+  },
+  "Prix UHT": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        153
+      ]
+    ]
+  },
+  "Prix HT total": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/BenefitInfo.js",
+        201
+      ]
+    ]
+  },
+  "Site sous contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/ChooseSite.js",
+        114
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/ChooseSite.js",
+        123
+      ]
+    ]
+  },
+  "Veuillez sélectionner un site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/ChooseSite.js",
+        118
+      ]
+    ]
+  },
+  "Zone": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/ChooseSite.js",
+        142
+      ],
+      [
+        "src/modules/contracts/forms/benefitSubForms/ChooseSite.js",
+        150
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        57
+      ]
+    ]
+  },
+  "Veuillez sélectionner une zone": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/ChooseSite.js",
+        146
+      ]
+    ]
+  },
+  "Envoyer des e-mails pré-intervention": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/ConstraintAndOthers.js",
+        58
+      ]
+    ]
+  },
+  "Ajouter une contrainte horaire": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/forms/benefitSubForms/TimeConstraintsField.js",
+        152
+      ]
+    ]
+  },
+  "Créer un contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        140
+      ],
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        125
+      ]
+    ]
+  },
+  "Exporter les contrats": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        146
+      ]
+    ]
+  },
+  "Nature du contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        238
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        240
+      ]
+    ]
+  },
+  "Statut": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        248
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        250
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        416
+      ],
+      [
+        "src/modules/contracts/lists/StatusHistoryList.js",
+        52
+      ]
+    ]
+  },
+  "En tacite reconduction": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        258
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        260
+      ]
+    ]
+  },
+  "Création": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        269
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        371
+      ],
+      [
+        "src/modules/setting/users/List.js",
+        56
+      ]
+    ]
+  },
+  "Début": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        282
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        383
+      ],
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        124
+      ],
+      [
+        "src/modules/vehicles/UnavailabilityForm.js",
+        109
+      ]
+    ]
+  },
+  "Fin": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        295
+      ],
+      [
+        "src/modules/contracts/lists/List.js",
+        394
+      ],
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        148
+      ],
+      [
+        "src/modules/vehicles/UnavailabilityForm.js",
+        135
+      ]
+    ]
+  },
+  "N°": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        311
+      ]
+    ]
+  },
+  "Nature": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        323
+      ]
+    ]
+  },
+  "Montant": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/List.js",
+        405
+      ]
+    ]
+  },
+  "Date": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/StatusHistoryList.js",
+        59
+      ]
+    ]
+  },
+  "Commentaire": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/lists/StatusHistoryList.js",
+        66
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        290
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        292
+      ],
+      [
+        "src/modules/employees/Form.js",
+        484
+      ],
+      [
+        "src/modules/employees/Form.js",
+        487
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        422
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        424
+      ],
+      [
+        "src/modules/vehicles/UnavailabilityForm.js",
+        162
+      ]
+    ]
+  },
+  "Lier": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/AddLinkedContractModal.js",
+        14
+      ]
+    ]
+  },
+  "Le contrat selectionné a été bien lié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/AddLinkedContractModal.js",
+        43
+      ]
+    ]
+  },
+  "Le contrat selectionné n'a pas été lié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/AddLinkedContractModal.js",
+        63
+      ]
+    ]
+  },
+  "Modifier la prestation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/BenefitFormModal.js",
+        14
+      ]
+    ]
+  },
+  "La prestation a été bien modifiée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/BenefitFormModal.js",
+        65
+      ]
+    ]
+  },
+  "La prestation n'a pas été modifiée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/BenefitFormModal.js",
+        66
+      ]
+    ]
+  },
+  "La prestation a été bien ajoutée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/BenefitFormModal.js",
+        75
+      ]
+    ]
+  },
+  "La prestation n'a pas été ajoutée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/BenefitFormModal.js",
+        76
+      ]
+    ]
+  },
+  "La remise commerciale a été bien modifiée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/ModifyBillingInfoModal.js",
+        47
+      ],
+      [
+        "src/modules/contracts/modals/ModifyCommercialDiscountModal.js",
+        40
+      ]
+    ]
+  },
+  "La remise commerciale n'a pas été modifiée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/ModifyBillingInfoModal.js",
+        68
+      ],
+      [
+        "src/modules/contracts/modals/ModifyCommercialDiscountModal.js",
+        61
+      ]
+    ]
+  },
+  "Modifier la remise commerciale": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/ModifyCommercialDiscountModal.js",
+        13
+      ]
+    ]
+  },
+  "Modifier le contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/ModifyContractModal.js",
+        13
+      ]
+    ]
+  },
+  "Le contrat a été bien modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/ModifyContractModal.js",
+        38
+      ]
+    ]
+  },
+  "Le contrat n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/ModifyContractModal.js",
+        44
+      ]
+    ]
+  },
+  "Sélectionner": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/SelectBuyingDataPointModal.js",
+        14
+      ]
+    ]
+  },
+  "Le point de contact achat a été bien sélectionné.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/SelectBuyingDataPointModal.js",
+        40
+      ]
+    ]
+  },
+  "Le point de contact achat n'a pas été sélectionné.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/SelectBuyingDataPointModal.js",
+        67
+      ]
+    ]
+  },
+  "Envoyer le contrat au contact Achat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/SetStatusSendToClientModal.js",
+        16
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        101
+      ]
+    ]
+  },
+  "Envoyer": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/SetStatusSendToClientModal.js",
+        19
+      ]
+    ]
+  },
+  "Le contrat a été bien envoyé au client.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/SetStatusSendToClientModal.js",
+        50
+      ]
+    ]
+  },
+  "Le contrat n'a pas été envoyé au client.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/SetStatusSendToClientModal.js",
+        78
+      ]
+    ]
+  },
+  "Historique des statuts": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/modals/StatusHistoryModal.js",
+        10
+      ]
+    ]
+  },
+  "Renvoyer en phase de création": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        17
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        20
+      ]
+    ]
+  },
+  "Le contrat a été bien renvoyé en phase de création.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        21
+      ]
+    ]
+  },
+  "Le contrat n'a pas été renvoyé en phase de création.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        22
+      ]
+    ]
+  },
+  "Soumettre le contrat à validation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        37
+      ]
+    ]
+  },
+  "Soumettre le contrat à la validation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        40
+      ]
+    ]
+  },
+  "Soumettre": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        41
+      ]
+    ]
+  },
+  "Le contrat a été bien soumis à la validation.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        42
+      ]
+    ]
+  },
+  "Le contrat n'a pas été soumis à la validation.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        43
+      ]
+    ]
+  },
+  "Annuler le contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        59
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        62
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        63
+      ]
+    ]
+  },
+  "Le contrat a été bien annulé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        64
+      ]
+    ]
+  },
+  "Le contrat n'a pas été annulé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        65
+      ]
+    ]
+  },
+  "Valider le contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        80
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        83
+      ]
+    ]
+  },
+  "Valider": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        84
+      ]
+    ]
+  },
+  "Le contrat a été bien validé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        85
+      ]
+    ]
+  },
+  "Le contrat n'a pas été validé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        86
+      ]
+    ]
+  },
+  "Réactiver le contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        115
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        116
+      ]
+    ]
+  },
+  "Réactiver": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        117
+      ]
+    ]
+  },
+  "Le contrat a été bien réactivé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        118
+      ]
+    ]
+  },
+  "Le contrat n'a pas été réactivé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        119
+      ]
+    ]
+  },
+  "Activer le contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        121
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        122
+      ]
+    ]
+  },
+  "Activer": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        123
+      ]
+    ]
+  },
+  "Le contrat a été bien activé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        124
+      ]
+    ]
+  },
+  "Le contrat n'a pas été activé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        125
+      ]
+    ]
+  },
+  "Suspendre le contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        153
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        156
+      ]
+    ]
+  },
+  "Suspendre": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        157
+      ]
+    ]
+  },
+  "Le contrat a été suspendu.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        158
+      ]
+    ]
+  },
+  "Le contrat n'a pas été suspendu.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        159
+      ]
+    ]
+  },
+  "Les interventions programmées pour ce contrat seront suspendues jusqu'à réactivation.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        161
+      ]
+    ]
+  },
+  "Annuler la clôture": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        179
+      ]
+    ]
+  },
+  "Voulez-vous annuler la clôture du contrat?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        182
+      ]
+    ]
+  },
+  "danger": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        184
+      ]
+    ]
+  },
+  "La clôture du contrat a été annulée": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        196
+      ]
+    ]
+  },
+  "La clôture du contrat n'a pas été annulée": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        203
+      ]
+    ]
+  },
+  "Clore le contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        218
+      ],
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        221
+      ]
+    ]
+  },
+  "Clore": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        222
+      ]
+    ]
+  },
+  "La clôture du contrat a bien été programmée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        223
+      ]
+    ]
+  },
+  "La clôture du contrat n'a pas été programmée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        224
+      ]
+    ]
+  },
+  "Le jour de la clôture, toute intervention restante sera annulée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/contracts/utils/getStatusActions.js",
+        226
+      ]
+    ]
+  },
+  "Aucune organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/HierarchyTree.js",
+        166
+      ]
+    ]
+  },
+  "Retirer du point de contact": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        79
+      ]
+    ]
+  },
+  "Voulez-vous retirer ce salarié?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        88
+      ]
+    ]
+  },
+  "Le salarié a bien été retiré du point de contact.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        102
+      ]
+    ]
+  },
+  "Le salarié n'a pas été retiré du point de contact.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        105
+      ]
+    ]
+  },
+  "Remonter": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        116
+      ]
+    ]
+  },
+  "Descendre": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        125
+      ]
+    ]
+  },
+  "La position du salarié a bien été changée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        43
+      ]
+    ]
+  },
+  "La position du salarié n'a pas été changée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        47
+      ]
+    ]
+  },
+  "Vous n'avez pas encore ajouté de salarié dans ce point de contact": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointContacts.js",
+        179
+      ]
+    ]
+  },
+  "Code comptable": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        61
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        164
+      ]
+    ]
+  },
+  "Factor": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        76
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        172
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        174
+      ]
+    ]
+  },
+  "Référence pour factures": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        81
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        156
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        158
+      ]
+    ]
+  },
+  "Echéance des factures": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        86
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        200
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        204
+      ]
+    ]
+  },
+  "Services liés": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        109
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/PreInterventionFormBody.js",
+        63
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/PreInterventionFormBody.js",
+        66
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/SiteManagerFormBody.js",
+        64
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/SiteManagerFormBody.js",
+        67
+      ]
+    ]
+  },
+  "Commentaire pour techniciens": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        119
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/SiteManagerFormBody.js",
+        88
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/SiteManagerFormBody.js",
+        90
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        282
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        284
+      ]
+    ]
+  },
+  "Services  liés": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        128
+      ]
+    ]
+  },
+  "jours": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        42
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        209
+      ],
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        163
+      ]
+    ]
+  },
+  "jour": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        46
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        209
+      ],
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        165
+      ]
+    ]
+  },
+  "Informations complémentaires": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        151
+      ],
+      [
+        "src/modules/employees/Form.js",
+        412
+      ]
+    ]
+  },
+  "Aucune information complémentaire": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPointInfo.js",
+        170
+      ]
+    ]
+  },
+  "Ajouter un salarié": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPoints.js",
+        103
+      ],
+      [
+        "src/modules/divisions/modals/AddContactPointContactModal.js",
+        13
+      ],
+      [
+        "src/modules/employees/Form.js",
+        154
+      ],
+      [
+        "src/modules/employees/List.js",
+        44
+      ]
+    ]
+  },
+  "Remplir les informations complémentaires": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPoints.js",
+        117
+      ],
+      [
+        "src/modules/divisions/modals/ModifyContactPointInfoModal.js",
+        13
+      ]
+    ]
+  },
+  "Voulez-vous supprimer ce point de contact?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPoints.js",
+        131
+      ]
+    ]
+  },
+  "Le point de contact a bien été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPoints.js",
+        142
+      ]
+    ]
+  },
+  "Le point de contact n'a pas été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPoints.js",
+        144
+      ]
+    ]
+  },
+  "Vous n'avez pas encore ajouté de point de contact": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/ContactPoints.js",
+        196
+      ]
+    ]
+  },
+  "Tél.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/Contacts.js",
+        111
+      ]
+    ]
+  },
+  "Charger plus": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/Contacts.js",
+        126
+      ]
+    ]
+  },
+  "Aucun salarié": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboardBoxes/Contacts.js",
+        133
+      ]
+    ]
+  },
+  "N° Siret": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        97
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        122
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        124
+      ],
+      [
+        "src/modules/divisions/lists/DivisionsList.js",
+        50
+      ]
+    ]
+  },
+  "Voir les contrats": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        116
+      ]
+    ]
+  },
+  "Ajouter une sous-organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        131
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        130
+      ]
+    ]
+  },
+  "Ajouter un site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        138
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        137
+      ],
+      [
+        "src/modules/divisions/modals/AddSubDivisionModal.js",
+        27
+      ]
+    ]
+  },
+  "Ajouter une zone": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        145
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        144
+      ],
+      [
+        "src/modules/divisions/modals/AddSubDivisionModal.js",
+        25
+      ]
+    ]
+  },
+  "Points de contact": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        153
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        153
+      ]
+    ]
+  },
+  "Ajouter un point de contact": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        157
+      ],
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        157
+      ],
+      [
+        "src/modules/divisions/modals/AddContactPointModal.js",
+        13
+      ]
+    ]
+  },
+  "Salariés de l'organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        200
+      ]
+    ]
+  },
+  "Ajouter un salarié tiers": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        204
+      ],
+      [
+        "src/modules/divisions/modals/AddContactModal.js",
+        13
+      ]
+    ]
+  },
+  "Sous organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        58
+      ]
+    ]
+  },
+  "L'organisation n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/DivisionDashboard.js",
+        254
+      ]
+    ]
+  },
+  "Site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        59
+      ]
+    ]
+  },
+  "La sous-organisation n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/dashboards/SubDivisionDashboard.js",
+        234
+      ]
+    ]
+  },
+  "Type de point de contact": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/ContactPointForm.js",
+        24
+      ],
+      [
+        "src/modules/divisions/forms/ContactPointForm.js",
+        31
+      ]
+    ]
+  },
+  "Veuillez sélectionner le type": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/ContactPointForm.js",
+        28
+      ]
+    ]
+  },
+  "Code comptables": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/ContactPointInfoFormBodies/BillingFormBody.js",
+        166
+      ]
+    ]
+  },
+  "Dénomination": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/Form.js",
+        109
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        190
+      ]
+    ]
+  },
+  "Veuillez renseigner le nom de l'organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/Form.js",
+        113
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        194
+      ]
+    ]
+  },
+  "N° / Rue": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/Form.js",
+        130
+      ],
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        203
+      ]
+    ]
+  },
+  "E-mail société": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/Form.js",
+        201
+      ],
+      [
+        "src/modules/divisions/forms/Form.js",
+        203
+      ]
+    ]
+  },
+  "Choisir un site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        351
+      ]
+    ]
+  },
+  "Veuillez rechercher et sélectionner un site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        355
+      ]
+    ]
+  },
+  "Rechercher un site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        361
+      ]
+    ]
+  },
+  "(Déjà ajouté)": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        372
+      ]
+    ]
+  },
+  "Choisir un type de site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        308
+      ]
+    ]
+  },
+  "Nouveau site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        317
+      ]
+    ]
+  },
+  "Site déjà existant": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        325
+      ]
+    ]
+  },
+  "Veuillez choisir un type de site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/forms/SubdivisionForm.js",
+        332
+      ]
+    ]
+  },
+  "Ajouter une organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/lists/DivisionsList.js",
+        20
+      ],
+      [
+        "src/modules/divisions/modals/AddDivisionModal.js",
+        27
+      ]
+    ]
+  },
+  "Type de division": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/lists/DivisionsList.js",
+        40
+      ]
+    ]
+  },
+  "chez": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/lists/SitesList.js",
+        126
+      ]
+    ]
+  },
+  "Lié à": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/lists/SitesList.js",
+        151
+      ]
+    ]
+  },
+  "Le salarié a bien été créé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/AddContactModal.js",
+        40
+      ],
+      [
+        "src/modules/divisions/modals/AddContactPointContactModal.js",
+        56
+      ]
+    ]
+  },
+  "Le salarié n'a pas été créé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/AddContactModal.js",
+        61
+      ],
+      [
+        "src/modules/divisions/modals/AddContactPointContactModal.js",
+        78
+      ]
+    ]
+  },
+  "Le point de contact a bien été créé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/AddContactPointModal.js",
+        46
+      ]
+    ]
+  },
+  "Le point de contact n'a pas été créé.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/AddContactPointModal.js",
+        67
+      ]
+    ]
+  },
+  "Ajouter une sous organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/AddDivisionModal.js",
+        25
+      ]
+    ]
+  },
+  "L'organisation a bien été modifiée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/AddDivisionModal.js",
+        62
+      ],
+      [
+        "src/modules/divisions/modals/AddSubDivisionModal.js",
+        85
+      ],
+      [
+        "src/modules/divisions/modals/ModifyDivisionModal.js",
+        59
+      ]
+    ]
+  },
+  "L'organisation n'a pas été modifiée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/AddDivisionModal.js",
+        84
+      ],
+      [
+        "src/modules/divisions/modals/AddSubDivisionModal.js",
+        107
+      ],
+      [
+        "src/modules/divisions/modals/ModifyDivisionModal.js",
+        80
+      ]
+    ]
+  },
+  "Le salarié tiers a bien été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/ModifyContactModal.js",
+        50
+      ]
+    ]
+  },
+  "Remplir": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/ModifyContactPointInfoModal.js",
+        14
+      ]
+    ]
+  },
+  "Les informations complémentaires ont bien été remplies.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/ModifyContactPointInfoModal.js",
+        44
+      ]
+    ]
+  },
+  "Les informations complémentaires n'ont pas bien été remplies.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/ModifyContactPointInfoModal.js",
+        65
+      ]
+    ]
+  },
+  "Modifier les informations de l'organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/ModifyDivisionModal.js",
+        24
+      ]
+    ]
+  },
+  "Modifier les informations de la sous-organisation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/ModifyDivisionModal.js",
+        26
+      ]
+    ]
+  },
+  "Modifier une zone": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/ModifySubDivisionModal.js",
+        24
+      ]
+    ]
+  },
+  "Modifier un site": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/ModifySubDivisionModal.js",
+        26
+      ]
+    ]
+  },
+  "Le site a bien été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/ModifySubDivisionModal.js",
+        58
+      ]
+    ]
+  },
+  "Le site n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/divisions/modals/ModifySubDivisionModal.js",
+        79
+      ]
+    ]
+  },
+  "Ajouter une indisponibilité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/AddUnavailabilityModal.js",
+        13
+      ],
+      [
+        "src/modules/employees/Dashboard.js",
+        191
+      ],
+      [
+        "src/modules/vehicles/AddUnavailabilityModal.js",
+        13
+      ],
+      [
+        "src/modules/vehicles/Dashboard.js",
+        97
+      ]
+    ]
+  },
+  "L'indisponibilité est bien ajoutée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/AddUnavailabilityModal.js",
+        37
+      ]
+    ]
+  },
+  "L'indisponibilité n'a pas été ajoutée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/AddUnavailabilityModal.js",
+        41
+      ],
+      [
+        "src/modules/vehicles/AddUnavailabilityModal.js",
+        38
+      ]
+    ]
+  },
+  "Nationalité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        96
+      ],
+      [
+        "src/modules/employees/Form.js",
+        212
+      ],
+      [
+        "src/modules/employees/Form.js",
+        217
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        199
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        204
+      ]
+    ]
+  },
+  "Date de naissance": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        99
+      ],
+      [
+        "src/modules/employees/Form.js",
+        230
+      ],
+      [
+        "src/modules/employees/List.js",
+        135
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        217
+      ]
+    ]
+  },
+  "Services": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        104
+      ],
+      [
+        "src/modules/employees/Form.js",
+        314
+      ],
+      [
+        "src/modules/employees/Form.js",
+        322
+      ],
+      [
+        "src/modules/employees/List.js",
+        55
+      ],
+      [
+        "src/modules/employees/List.js",
+        121
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        288
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        295
+      ],
+      [
+        "src/modules/vehicles/List.js",
+        56
+      ]
+    ]
+  },
+  "Type de salarié": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        107
+      ],
+      [
+        "src/modules/employees/Form.js",
+        335
+      ],
+      [
+        "src/modules/employees/Form.js",
+        344
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        307
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        314
+      ]
+    ]
+  },
+  "Date d'entrée": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        112
+      ],
+      [
+        "src/modules/employees/Form.js",
+        379
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        326
+      ]
+    ]
+  },
+  "N° de permis": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        120
+      ],
+      [
+        "src/modules/employees/Form.js",
+        452
+      ],
+      [
+        "src/modules/employees/Form.js",
+        454
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        393
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        395
+      ]
+    ]
+  },
+  "N° de sécurité sociale": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        123
+      ]
+    ]
+  },
+  "Mutuelle": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        126
+      ],
+      [
+        "src/modules/employees/Form.js",
+        469
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        411
+      ]
+    ]
+  },
+  "Imprimer un planning de semaine": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        161
+      ]
+    ]
+  },
+  "Modifier les compétences": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        172
+      ],
+      [
+        "src/modules/employees/ModifySkillsModal.js",
+        12
+      ]
+    ]
+  },
+  "Indisponibilités": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        187
+      ],
+      [
+        "src/modules/vehicles/Dashboard.js",
+        93
+      ]
+    ]
+  },
+  "Le salarié n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Dashboard.js",
+        272
+      ]
+    ]
+  },
+  "Veuillez sélectionner une date!": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/DownloadUnavailabilityForm.js",
+        72
+      ]
+    ]
+  },
+  "Date de fin": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/DownloadUnavailabilityForm.js",
+        99
+      ]
+    ]
+  },
+  "Etat des indisponibilités": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/DownloadUnavailabilityModal.js",
+        11
+      ],
+      [
+        "src/modules/employees/List.js",
+        49
+      ]
+    ]
+  },
+  "Télécharger": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/DownloadUnavailabilityModal.js",
+        12
+      ]
+    ]
+  },
+  "Le salarié a été bien ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Form.js",
+        69
+      ]
+    ]
+  },
+  "Le salarié n'a pas été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Form.js",
+        89
+      ]
+    ]
+  },
+  "Informations personnelles": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Form.js",
+        162
+      ]
+    ]
+  },
+  "Photo du salarié": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Form.js",
+        295
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        138
+      ]
+    ]
+  },
+  "Informations professionnelles": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Form.js",
+        309
+      ]
+    ]
+  },
+  "Veuillez renseigner au moins une service": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Form.js",
+        318
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        292
+      ]
+    ]
+  },
+  "Veuillez renseigner le type de salarié": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Form.js",
+        339
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        311
+      ]
+    ]
+  },
+  "Veuillez renseigner au moins une compétence": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Form.js",
+        361
+      ],
+      [
+        "src/modules/setting/benefitTypes/Form.js",
+        152
+      ]
+    ]
+  },
+  "Nombre d'heures dans le contrat de travail": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Form.js",
+        440
+      ],
+      [
+        "src/modules/employees/Form.js",
+        444
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        384
+      ]
+    ]
+  },
+  "N° de sécu. sociale": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/Form.js",
+        461
+      ],
+      [
+        "src/modules/employees/Form.js",
+        463
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        402
+      ],
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        404
+      ]
+    ]
+  },
+  "En activité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/List.js",
+        89
+      ],
+      [
+        "src/modules/employees/List.js",
+        93
+      ],
+      [
+        "src/modules/employees/List.js",
+        95
+      ]
+    ]
+  },
+  "Plus en activité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/List.js",
+        98
+      ]
+    ]
+  },
+  "Modifier les informations du salarié": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/ModifyEmloyeeModal.js",
+        13
+      ]
+    ]
+  },
+  "Le salarié a été bien modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/ModifyEmloyeeModal.js",
+        42
+      ]
+    ]
+  },
+  "Le salarié n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/ModifyEmloyeeModal.js",
+        63
+      ]
+    ]
+  },
+  "Info. Personnelles": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        132
+      ]
+    ]
+  },
+  "Info. Professionnelles": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        283
+      ]
+    ]
+  },
+  "Info. Complémentaires": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        360
+      ]
+    ]
+  },
+  "Heures contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/ModifyEmployeeForm.js",
+        386
+      ]
+    ]
+  },
+  "Modifier l'indisponibilité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/ModifyUnavailabilityModal.js",
+        13
+      ]
+    ]
+  },
+  "L'indisponibilité a été bien modifiée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/ModifyUnavailabilityModal.js",
+        37
+      ],
+      [
+        "src/modules/vehicles/ModifyUnavailabilityModal.js",
+        34
+      ]
+    ]
+  },
+  "L'indisponibilité n'a pas été modifiée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/ModifyUnavailabilityModal.js",
+        41
+      ],
+      [
+        "src/modules/vehicles/ModifyUnavailabilityModal.js",
+        38
+      ]
+    ]
+  },
+  "Veuillez sélectionner une date": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        111
+      ]
+    ]
+  },
+  "JJ/MM/AAAA hh:mm": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        116
+      ]
+    ]
+  },
+  "Type de congé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        174
+      ]
+    ]
+  },
+  "sélectionner": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        185
+      ]
+    ]
+  },
+  "Durée (gestion de la paie)": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        203
+      ]
+    ]
+  },
+  "Veuillez préciser la durée": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        207
+      ]
+    ]
+  },
+  "Nb": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        213
+      ]
+    ]
+  },
+  "Veuillez préciser le type": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/UnavailabilityForm.js",
+        223
+      ]
+    ]
+  },
+  "Aucune compétence": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/dashboardBoxes/Skills.js",
+        56
+      ]
+    ]
+  },
+  "Voulez-vous supprimer cette indisponibilité?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        113
+      ]
+    ]
+  },
+  "L'indisponibilité a été bien supprimée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        124
+      ],
+      [
+        "src/modules/vehicles/dashboardBoxes/Unavailability.js",
+        95
+      ]
+    ]
+  },
+  "L'indisponibilité n'a pas été supprimée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        126
+      ],
+      [
+        "src/modules/vehicles/dashboardBoxes/Unavailability.js",
+        97
+      ]
+    ]
+  },
+  "Aucune indisponibilité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/employees/dashboardBoxes/Unavailability.js",
+        200
+      ]
+    ]
+  },
+  "Journal des anomalies": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/home/HomePage.js",
+        75
+      ]
+    ]
+  },
+  "Calendrier assainissement": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/home/HomePage.js",
+        89
+      ]
+    ]
+  },
+  "Calendrier ramonage": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/home/HomePage.js",
+        101
+      ]
+    ]
+  },
+  "Calendrier dégraissage": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/home/HomePage.js",
+        113
+      ]
+    ]
+  },
+  "Factures": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/home/HomePage.js",
+        125
+      ]
+    ]
+  },
+  "Page non trouvée!": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/notFound/NotFoundPage.js",
+        20
+      ]
+    ]
+  },
+  "Retournez à la page d'accueil": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/notFound/NotFoundPage.js",
+        24
+      ]
+    ]
+  },
+  "Modify": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/scheduler/Scheduler.js",
+        188
+      ]
+    ]
+  },
+  "Delete": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/scheduler/Scheduler.js",
+        196
+      ]
+    ]
+  },
+  "Le type de prestation a bien été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/AddBenefitType.js",
+        43
+      ]
+    ]
+  },
+  "Le type de prestation n'a pas été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/AddBenefitType.js",
+        63
+      ]
+    ]
+  },
+  "Ajouter un type de prestation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/AddBenefitType.js",
+        79
+      ],
+      [
+        "src/modules/setting/benefitTypes/List.js",
+        21
+      ]
+    ]
+  },
+  "Enregistrer": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/AddBenefitType.js",
+        84
+      ],
+      [
+        "src/modules/setting/productTypes/AddProductType.js",
+        83
+      ],
+      [
+        "src/modules/setting/skills/AddSkill.js",
+        83
+      ],
+      [
+        "src/modules/setting/users/AddUser.js",
+        85
+      ],
+      [
+        "src/modules/setting/vatRates/AddVatRate.js",
+        83
+      ],
+      [
+        "src/modules/setting/vehicleTypes/AddVehicleType.js",
+        83
+      ]
+    ]
+  },
+  "Titre interne": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        31
+      ],
+      [
+        "src/modules/setting/benefitTypes/Form.js",
+        103
+      ],
+      [
+        "src/modules/setting/benefitTypes/List.js",
+        36
+      ]
+    ]
+  },
+  "Couleur": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        34
+      ],
+      [
+        "src/modules/setting/benefitTypes/Form.js",
+        112
+      ]
+    ]
+  },
+  "Service": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        37
+      ],
+      [
+        "src/modules/setting/benefitTypes/Form.js",
+        129
+      ],
+      [
+        "src/modules/setting/benefitTypes/List.js",
+        44
+      ],
+      [
+        "src/modules/setting/productTypes/Dashboard.js",
+        30
+      ],
+      [
+        "src/modules/setting/productTypes/Form.js",
+        93
+      ],
+      [
+        "src/modules/setting/productTypes/List.js",
+        36
+      ],
+      [
+        "src/modules/vehicles/Dashboard.js",
+        62
+      ],
+      [
+        "src/modules/vehicles/Form.js",
+        109
+      ],
+      [
+        "src/modules/vehicles/List.js",
+        124
+      ]
+    ]
+  },
+  "Compétences requises": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        40
+      ],
+      [
+        "src/modules/setting/benefitTypes/Form.js",
+        148
+      ]
+    ]
+  },
+  "Voulez-vous supprimer ce type de prestation?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        62
+      ]
+    ]
+  },
+  "Le type de prestation a bien été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        73
+      ]
+    ]
+  },
+  "Le type de prestation n'a pas été supprimé car il est utilisé dans un contrat": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        75
+      ]
+    ]
+  },
+  "Le type de prestation n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Dashboard.js",
+        143
+      ]
+    ]
+  },
+  "Titre public": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Form.js",
+        90
+      ],
+      [
+        "src/modules/setting/benefitTypes/List.js",
+        27
+      ]
+    ]
+  },
+  "Veuillez renseigner le titre public": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Form.js",
+        94
+      ]
+    ]
+  },
+  "Veuillez renseigner la couleur": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Form.js",
+        116
+      ]
+    ]
+  },
+  "Veuillez renseigner le service": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/Form.js",
+        133
+      ]
+    ]
+  },
+  "Modifier les informations du type de prestation": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/ModifyBenefitTypeModal.js",
+        13
+      ]
+    ]
+  },
+  "Le type de prestation a bien été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/ModifyBenefitTypeModal.js",
+        41
+      ]
+    ]
+  },
+  "Le type de prestation n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/benefitTypes/ModifyBenefitTypeModal.js",
+        61
+      ]
+    ]
+  },
+  "Il n'y a pas d'échéance par défaut pour les factures": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/invoicesDueDateDays/Dashboard.js",
+        70
+      ]
+    ]
+  },
+  "Valeur": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/invoicesDueDateDays/Form.js",
+        63
+      ],
+      [
+        "src/modules/setting/vatRates/Form.js",
+        63
+      ],
+      [
+        "src/modules/setting/vatRates/List.js",
+        27
+      ]
+    ]
+  },
+  "Veuillez renseigner la valeur": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/invoicesDueDateDays/Form.js",
+        67
+      ],
+      [
+        "src/modules/setting/vatRates/Form.js",
+        67
+      ]
+    ]
+  },
+  "Modifier l'échéance par défaut des factures": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/invoicesDueDateDays/ModifyInvoicesDueDateDaysModal.js",
+        13
+      ]
+    ]
+  },
+  "L'échéance par défaut des factures a bien été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/invoicesDueDateDays/ModifyInvoicesDueDateDaysModal.js",
+        40
+      ]
+    ]
+  },
+  "L'échéance par défaut des factures n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/invoicesDueDateDays/ModifyInvoicesDueDateDaysModal.js",
+        60
+      ]
+    ]
+  },
+  "Le type de produit a bien été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/AddProductType.js",
+        42
+      ]
+    ]
+  },
+  "Le type de produit n'a pas été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/AddProductType.js",
+        62
+      ]
+    ]
+  },
+  "Ajouter un type de produit": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/AddProductType.js",
+        78
+      ],
+      [
+        "src/modules/setting/productTypes/List.js",
+        21
+      ]
+    ]
+  },
+  "Voulez-vous supprimer ce type de produit?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/Dashboard.js",
+        52
+      ]
+    ]
+  },
+  "Le type de produit a bien été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/Dashboard.js",
+        63
+      ]
+    ]
+  },
+  "Le type de produit n'a pas été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/Dashboard.js",
+        65
+      ]
+    ]
+  },
+  "Le type de produit n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/Dashboard.js",
+        114
+      ]
+    ]
+  },
+  "Veuillez renseigner la service": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/Form.js",
+        97
+      ]
+    ]
+  },
+  "Modifier les informations du type de produit": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/ModifyProductTypeModal.js",
+        13
+      ]
+    ]
+  },
+  "Le type de produit a bien été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/ModifyProductTypeModal.js",
+        40
+      ]
+    ]
+  },
+  "Le type de produit n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/productTypes/ModifyProductTypeModal.js",
+        60
+      ]
+    ]
+  },
+  "La compétence a bien été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/AddSkill.js",
+        42
+      ]
+    ]
+  },
+  "La compétence n'a pas été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/AddSkill.js",
+        62
+      ]
+    ]
+  },
+  "Ajouter une compétence": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/AddSkill.js",
+        78
+      ],
+      [
+        "src/modules/setting/skills/List.js",
+        21
+      ]
+    ]
+  },
+  "Voulez-vous supprimer cette compétence?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/Dashboard.js",
+        45
+      ]
+    ]
+  },
+  "La compétence a bien été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/Dashboard.js",
+        56
+      ]
+    ]
+  },
+  "La compétence n'a pas été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/Dashboard.js",
+        58
+      ]
+    ]
+  },
+  "La compétence n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/Dashboard.js",
+        104
+      ]
+    ]
+  },
+  "Label": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/Form.js",
+        62
+      ],
+      [
+        "src/modules/setting/skills/List.js",
+        27
+      ],
+      [
+        "src/modules/setting/vehicleTypes/Form.js",
+        62
+      ],
+      [
+        "src/modules/setting/vehicleTypes/List.js",
+        27
+      ]
+    ]
+  },
+  "Veuillez renseigner le label": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/Form.js",
+        66
+      ],
+      [
+        "src/modules/setting/vehicleTypes/Form.js",
+        66
+      ]
+    ]
+  },
+  "Modifier les informations de la compétence": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/ModifySkillModal.js",
+        13
+      ]
+    ]
+  },
+  "La compétence a bien été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/ModifySkillModal.js",
+        40
+      ]
+    ]
+  },
+  "La compétence n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/skills/ModifySkillModal.js",
+        60
+      ]
+    ]
+  },
+  "L'utilisateur a bien été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/AddUser.js",
+        44
+      ]
+    ]
+  },
+  "L'utilisateur n'a pas été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/AddUser.js",
+        64
+      ]
+    ]
+  },
+  "Gérer les accès d'un salarié": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/AddUser.js",
+        80
+      ],
+      [
+        "src/modules/setting/users/List.js",
+        25
+      ]
+    ]
+  },
+  "Email": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Dashboard.js",
+        31
+      ],
+      [
+        "src/modules/setting/users/Form.js",
+        140
+      ],
+      [
+        "src/modules/setting/users/List.js",
+        48
+      ]
+    ]
+  },
+  "Rôle(s)": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Dashboard.js",
+        40
+      ]
+    ]
+  },
+  "Voulez-vous supprimer cet utilisateur?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Dashboard.js",
+        62
+      ]
+    ]
+  },
+  "L'utilisateur a bien été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Dashboard.js",
+        73
+      ]
+    ]
+  },
+  "L'utilisateur user n'a pas été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Dashboard.js",
+        75
+      ]
+    ]
+  },
+  "L'utilisateur n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Dashboard.js",
+        131
+      ]
+    ]
+  },
+  "Employé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Form.js",
+        95
+      ]
+    ]
+  },
+  "Veuillez renseigner l'employé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Form.js",
+        98
+      ]
+    ]
+  },
+  "Rôles": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Form.js",
+        115
+      ]
+    ]
+  },
+  "Veuillez renseigner au moins un rôle": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Form.js",
+        118
+      ]
+    ]
+  },
+  "Veuillez renseigner l'email": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Form.js",
+        143
+      ]
+    ]
+  },
+  "Mot de passe": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Form.js",
+        153
+      ]
+    ]
+  },
+  "Veuillez renseigner le mot de passe": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Form.js",
+        158
+      ]
+    ]
+  },
+  "Confirmer le mot de passe": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Form.js",
+        166
+      ]
+    ]
+  },
+  "Veuillez confirmer le mot de passe": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/Form.js",
+        169
+      ]
+    ]
+  },
+  "Modifier les accès du salarié": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/ModifyUserModal.js",
+        31
+      ]
+    ]
+  },
+  "Votre mot de passe ou votre email ont été modifiés. Veuillez vous reconnecter.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/ModifyUserModal.js",
+        79
+      ]
+    ]
+  },
+  "L'utilisateur a bien été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/ModifyUserModal.js",
+        81
+      ]
+    ]
+  },
+  "L'utilisateur n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/users/ModifyUserModal.js",
+        107
+      ]
+    ]
+  },
+  "Le taux de TVA a bien été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vatRates/AddVatRate.js",
+        42
+      ]
+    ]
+  },
+  "Le taux de TVA n'a pas été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vatRates/AddVatRate.js",
+        62
+      ]
+    ]
+  },
+  "Ajouter un taux de TVA": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vatRates/AddVatRate.js",
+        78
+      ],
+      [
+        "src/modules/setting/vatRates/List.js",
+        21
+      ]
+    ]
+  },
+  "Voulez-vous supprimer ce taux de TVA?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vatRates/Dashboard.js",
+        45
+      ]
+    ]
+  },
+  "Le taux de TVA a bien été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vatRates/Dashboard.js",
+        56
+      ]
+    ]
+  },
+  "Le taux de TVA n'a pas été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vatRates/Dashboard.js",
+        58
+      ]
+    ]
+  },
+  "Le taux de TVA n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vatRates/Dashboard.js",
+        104
+      ]
+    ]
+  },
+  "Modifier les informations du taux de TVA": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vatRates/ModifyVatRateModal.js",
+        13
+      ]
+    ]
+  },
+  "Le taux de TVA a bien été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vatRates/ModifyVatRateModal.js",
+        40
+      ]
+    ]
+  },
+  "Le taux de TVA n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vatRates/ModifyVatRateModal.js",
+        60
+      ]
+    ]
+  },
+  "Le type de véhicule a bien été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vehicleTypes/AddVehicleType.js",
+        42
+      ]
+    ]
+  },
+  "Le type de véhicule n'a pas été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vehicleTypes/AddVehicleType.js",
+        62
+      ]
+    ]
+  },
+  "Ajouter un type de véhicule": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vehicleTypes/AddVehicleType.js",
+        78
+      ],
+      [
+        "src/modules/setting/vehicleTypes/List.js",
+        21
+      ]
+    ]
+  },
+  "Voulez-vous supprimer ce type de véhicule?": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vehicleTypes/Dashboard.js",
+        45
+      ]
+    ]
+  },
+  "Le type de véhicule a bien été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vehicleTypes/Dashboard.js",
+        56
+      ]
+    ]
+  },
+  "Le type de véhicule n'a pas été supprimé": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vehicleTypes/Dashboard.js",
+        58
+      ]
+    ]
+  },
+  "Le type de véhicule n'existe pas": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vehicleTypes/Dashboard.js",
+        104
+      ]
+    ]
+  },
+  "Modifier les informations du type de véhicule": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vehicleTypes/ModifyVehicleTypeModal.js",
+        13
+      ]
+    ]
+  },
+  "Le type de véhicule a bien été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vehicleTypes/ModifyVehicleTypeModal.js",
+        40
+      ]
+    ]
+  },
+  "Le type de véhicule n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/setting/vehicleTypes/ModifyVehicleTypeModal.js",
+        60
+      ]
+    ]
+  },
+  "L'indisponibilité a été bien ajoutée.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/AddUnavailabilityModal.js",
+        34
+      ]
+    ]
+  },
+  "Le véhicule a bien été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/AddVehicle.js",
+        42
+      ]
+    ]
+  },
+  "Le véhicule n'a pas été ajouté.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/AddVehicle.js",
+        62
+      ]
+    ]
+  },
+  "Nom court": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/Dashboard.js",
+        59
+      ],
+      [
+        "src/modules/vehicles/Form.js",
+        96
+      ],
+      [
+        "src/modules/vehicles/List.js",
+        116
+      ]
+    ]
+  },
+  "Techniciens par défaut": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/Dashboard.js",
+        65
+      ],
+      [
+        "src/modules/vehicles/Form.js",
+        147
+      ]
+    ]
+  },
+  "Couleur dans le calendrier": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/Dashboard.js",
+        72
+      ],
+      [
+        "src/modules/vehicles/Form.js",
+        168
+      ]
+    ]
+  },
+  "N° de plaque": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/Form.js",
+        83
+      ],
+      [
+        "src/modules/vehicles/List.js",
+        99
+      ]
+    ]
+  },
+  "Type de véhicule": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/Form.js",
+        128
+      ]
+    ]
+  },
+  "Date de sortie du parc auto": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/Form.js",
+        181
+      ]
+    ]
+  },
+  "Ajouter un véhicule": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/List.js",
+        50
+      ]
+    ]
+  },
+  "Modifier l 'indisponibilité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/ModifyUnavailabilityModal.js",
+        13
+      ]
+    ]
+  },
+  "Modifier les informations du véhicule": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/ModifyVehicleModal.js",
+        13
+      ]
+    ]
+  },
+  "Le véhicule a été bien modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/ModifyVehicleModal.js",
+        40
+      ]
+    ]
+  },
+  "Le véhicule n'a pas été modifié.": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/ModifyVehicleModal.js",
+        60
+      ]
+    ]
+  },
+  "Aucun indisponibilité": {
+    "translation": "",
+    "origin": [
+      [
+        "src/modules/vehicles/dashboardBoxes/Unavailability.js",
+        159
+      ]
+    ]
+  }
+}

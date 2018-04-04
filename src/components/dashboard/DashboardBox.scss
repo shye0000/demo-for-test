@@ -1,0 +1,33 @@
+@import "../../colors";
+.dashboard-box {
+  margin-bottom: 20px;
+  background: white;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  .empty-tag {
+    text-align: left;
+  }
+  .title-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    color: grey;
+    fill: grey;
+    padding: 10px 20px;
+    border-bottom: 1px solid $nav-grey;
+    .title {
+      display: flex;
+      align-items: center;
+      .title-icon {
+        font-size: 23px;
+        margin-right: 20px;
+      }
+      .title-content {
+        font-size: 16px;
+        font-weight: 600;
+        text-transform: uppercase;
+      }
+    }
+
+  }
+}

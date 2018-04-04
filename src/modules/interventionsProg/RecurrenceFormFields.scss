@@ -1,0 +1,20 @@
+.recurrence-row{
+  margin: 0!important;
+  .recurrence-row-month{
+    margin-top: 35px;
+  }
+  .recurrence-row-year{
+    margin-top: 15px;
+  }
+  .recurrence-wrapper{
+    display: flex;
+    align-items: center;
+    .recurrence-display{
+      display: flex;
+      align-items: center;
+      .ant-input-number{
+        margin-left: 5px;
+      }
+    }
+  }
+}

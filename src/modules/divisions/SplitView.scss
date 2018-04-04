@@ -1,0 +1,23 @@
+.split-view{
+  display: flex;
+  flex: 1;
+  height: 100%;
+  overflow: hidden;
+  .left {
+    overflow: auto;
+    background: white;
+    width: 350px;
+    box-shadow: 0 0 11px rgba(0, 0, 0, 0.1);
+    -webkit-overflow-scrolling: touch;
+  }
+  .body {
+    flex: 1;
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    .dashboard {
+      padding: 20px 40px 20px 20px;
+    }
+  }
+}
+

@@ -1,0 +1,35 @@
+@import "../../colors";
+.contact-dashboard {
+  .contact-sub-title {
+    color: rgba(black, .4);
+    .uppercase {
+      text-transform: uppercase;
+    }
+  }
+  .foot-comment{
+    display: flex;
+    align-items: center;
+    color: black;
+    opacity: 0.4;
+    #comment{
+      margin-left: 10px;
+    }
+    i {
+      svg {
+        fill: currentColor;
+        width: 14px;
+      }
+    }
+  }
+  .division-icon-head{
+    font-weight: 600;
+    svg {
+      margin-left : 9px;
+      margin-right: 4px;
+      fill: currentColor;
+    }
+  }
+  .division-status-head{
+    margin-top:5px;
+  }
+}

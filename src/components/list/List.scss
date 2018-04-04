@@ -1,0 +1,221 @@
+@import "../../colors";
+.list-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  height: 100%;
+  .list-layout{
+    height:100%;
+    display: flex;
+    flex: 1;
+    background: $background-grey;
+    overflow: hidden;
+    #blur-div{
+      position: fixed;
+      width: 100%;
+      height: 100%;
+    }
+    .filters{
+      width: 300px;
+      box-shadow: 0 0 11px rgba(0, 0, 0, 0.23);
+      padding: 10px 20px 20px 20px;
+      background: white;
+      transition: width 200ms ease-in-out, padding 200ms ease-in-out;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      .filters-head {
+        .filters-close{
+          width: 100%;
+          text-align: right;
+          font-size: 18px;
+          .filters-close-button{
+            cursor: pointer;
+          }
+        }
+        .filters-title-row{
+          height:45px;
+          .filters-title{
+            font-size: 16px;
+            font-weight: 600;
+            color: black;
+          }
+        }
+      }
+      &.closed {
+        width: 0;
+        padding: 10px 0;
+      }
+      .filters-form-row{
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        .form-body {
+          overflow-y: auto;
+        }
+        .filter-field{
+          .filters-subtitle{
+            font-size: 13px;
+            font-weight: 600;
+            color: black;
+          }
+        }
+        .footer {
+          .action {
+            width: 100%;
+          }
+        }
+      }
+
+    }
+    .list-content {
+      padding: 0 40px 30px 40px;
+      flex: 1;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      .list-header-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        padding: 20px 0 20px 0;
+        .list-title {
+          font-weight: 600;
+          font-size: 22px;
+          color: black;
+        }
+        .list-top-options {
+          display: flex;
+          align-items: center;
+          &>*:not(:last-child) {
+            margin-right: 8px;
+          }
+          .actions-button, .list-button {
+            font-size: 18px;
+          }
+        }
+      }
+      .list-quick-filters-row {
+        margin-bottom: 20px;
+        .quick-filter-wrapper {
+          &:not(:last-child) {
+            margin-bottom: 15px;
+          }
+        }
+      }
+    }
+    .list-content-row {
+      box-shadow: 0 0 11px rgba(0, 0, 0, 0.1);
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      background: white;
+      overflow: hidden;
+      height: 100%;
+      thead tr {
+        vertical-align: top;
+        th {
+          background: white;
+          min-width: 70px;
+          color: grey;
+          font-weight: 600;
+          .ant-table-column-sorter {
+            color: $light-grey;
+            & > .ant-table-column-sorter-up, & > .ant-table-column-sorter-down {
+              height: 8px;
+              i {
+                font-size: 16px;
+                height: 8px;
+              }
+            }
+          }
+        }
+      }
+      .ant-table {
+        overflow-x: auto;
+        .ant-table-body {
+          overflow-x: visible;
+          -webkit-overflow-scrolling: touch;
+        }
+      }
+
+      .ant-table-tbody {
+        & > tr {
+          & > td {
+            min-width: 70px;
+            color: black;
+          }
+        }
+      }
+
+      .ant-table-wrapper {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        .ant-spin-nested-loading {
+          flex: 1;
+          display: flex;
+          flex-direction: column;
+          .ant-spin-container{
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            .ant-table {
+              flex: 1;
+              display: flex;
+              flex-direction: column;
+              .ant-table-content {
+                .ant-table-header {
+
+                }
+              }
+            }
+            .ant-table-pagination {
+              margin: 0;
+              padding: 16px;
+              border-top: 1px solid $light-grey;
+              float: none;
+              display: flex;
+              align-items: center;
+              flex-wrap: wrap;
+              .ant-pagination-total-text {
+                order: 0;
+                height: auto;
+                line-height: inherit;
+              }
+              .ant-pagination-prev {
+                order: 2;
+              }
+              .ant-pagination-item {
+                order: 2;
+              }
+              .ant-pagination-next {
+                order: 2;
+              }
+              .ant-pagination-jump-next {
+                order: 2;
+              }
+              .ant-pagination-jump-prev {
+                order: 2;
+              }
+              .ant-pagination-options {
+                order: 1;
+                flex: 1;
+                white-space: nowrap;
+                .ant-pagination-options-quick-jumper, .ant-pagination-options-size-changer {
+                  height: auto;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  a {
+    font-weight: 600;
+  }
+}

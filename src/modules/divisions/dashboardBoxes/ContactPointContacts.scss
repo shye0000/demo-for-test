@@ -1,0 +1,46 @@
+@import "../../../colors";
+.contact-point-contacts {
+  padding-left: 5px;
+  padding-right: 5px;
+  .title {
+    color: grey;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+  }
+  .empty-tag {
+    text-align: left;
+    color: rgba(black, .4);
+    padding: 10px 0;
+  }
+  .data-point-contact {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid $background-grey;
+    .photo {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      font-weight: 600;
+      font-size: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      background-color: $light-grey;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      margin-right: 13px;
+    }
+    .name {
+      font-weight: 600;
+      flex: 1;
+    }
+    &.contact-out {
+      .photo, .name {
+        opacity: 0.5;
+      }
+    }
+  }
+}

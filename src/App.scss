@@ -1,0 +1,118 @@
+@import "colors";
+@import "Form";
+.ant-spin.centered-spin {
+  position: relative;
+  transform: translate(-50%, 50%);
+  top: 50%;
+  left: 50%;
+  display: block;
+  text-align: center;
+}
+.app {
+  height: 100%;
+  .empty-tag {
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 20px;
+  }
+  .centered-spin {
+    position: relative;
+    transform: translate(-50%, 50%);
+    top: 50%;
+    left: 50%;
+    display: block;
+    text-align: center;
+  }
+}
+.ant-form-item-label {
+  font-weight: 600;
+  line-height: normal!important;
+  label {
+    &:before {
+      display: none;
+    }
+    &:after {
+      display: none;
+    }
+    &.ant-form-item-required {
+      &:after {
+        content: '*';
+        display: inline-block;
+      }
+    }
+  }
+}
+.modal-title {
+  font-weight: 600;
+  color: black;
+}
+
+button.ant-btn {
+  &>span {
+    font-weight: 600;
+  }
+}
+
+.qhs-confirm-modal {
+  color: black;
+  &.ant-confirm-confirm {
+    .ant-modal-content {
+      border-radius: 0;
+      .ant-modal-body {
+        padding: 24px;
+        .ant-confirm-body {
+          & > .ant-confirm-title {
+            font-weight: 600;
+          }
+        }
+        .ant-confirm-btns {
+          button {
+            height: 40px;
+            padding: 0 15px;
+            font-size: 16px;
+            border-radius: 4px;
+          }
+        }
+      }
+    }
+  }
+  &.delete {
+    &.ant-confirm-confirm {
+      .ant-modal-content {
+        .ant-modal-body {
+          .ant-confirm-body {
+            & > .anticon {
+              color: $red;
+            }
+          }
+          .ant-confirm-btns {
+            button {
+              &.ant-btn-danger {
+                background: $red;
+                color: white;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.ant-notification {
+  .qhs-notification {
+    border: 1px solid;
+    .ant-notification-notice-message {
+      font-weight: 600;
+    }
+    &.error {
+      border-color: $red;
+      background: $background-red;
+    }
+    &.success {
+      border-color: $green;
+      background: $background-green;
+    }
+  }
+
+}

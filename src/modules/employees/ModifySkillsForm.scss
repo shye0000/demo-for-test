@@ -1,0 +1,14 @@
+.modify-skills-form {
+  min-height: 110px;
+  position: relative;
+  .skills-checkbox-wrapper {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-top: 14px;
+    .skills-checkbox {
+      color: black;
+      margin-bottom: 10px;
+    }
+  }
+}

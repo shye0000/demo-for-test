@@ -1,0 +1,43 @@
+@import "./colors";
+.form {
+  padding: 30px;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  .form-title {
+    font-weight: 600;
+    font-size: 20px;
+    color: grey;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    & > i {
+      margin-right: 10px;
+    }
+  }
+  .form-content {
+    max-width: 800px;
+    background: white;
+    margin: auto;
+    box-shadow: 0 0 11px rgba(0, 0, 0, 0.1);
+    .ant-form-item-label{
+      line-height: normal;
+    }
+    .form-section {
+      margin: 0 0 40px 0;
+      .section-title {
+        font-size: 16px;
+        font-weight: 600;
+        color: grey;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+      }
+    }
+    .form-buttons {
+      display: flex;
+      align-items: center;
+      button {
+        margin-right: 20px;
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+@import "../../colors";
+.dashboard-head {
+  position: relative;
+  padding: 20px;
+  background: white;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  &.with-photo {
+    .content {
+      padding-left: 90px;
+    }
+    .bottom {
+      padding-left: 90px;
+    }
+  }
+  .top {
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+    .photo {
+      width: 70px;
+      min-width: 70px;
+      height: 70px;
+      background-color: rgba($blue, .15);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      border-radius: 50%;
+      margin-right: 20px;
+      .component-wrapper {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        &>* {
+          margin: auto;
+          fill: $blue;
+          font-size: 30px;
+          color: $blue;
+          svg {
+            height: 30px;
+            width: 30px;
+          }
+        }
+      }
+    }
+    .title-wrapper {
+      .title {
+        font-size: 22px;
+        font-weight: 600;
+      }
+      .sub-title {
+
+      }
+    }
+  }
+  .content {
+    margin-bottom: 10px;
+    .item {
+      margin-bottom: 10px;
+      line-height: 14px;
+      .label {
+
+      }
+      .value {
+        font-weight: 600;
+        word-wrap: break-word;
+        .empty-label {
+          font-weight: 600;
+          color: $light-grey;
+        }
+        .calendar-color{
+          height: 23px;
+          width: 35px;
+          border: solid 1px $grey-header;
+          border-radius: 3px;
+        }
+      }
+    }
+  }
+  .bottom {
+    margin-bottom: 15px;
+  }
+  .actions-wrapper {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    .actions-button {
+      font-size: 18px;
+    }
+
+  }
+}

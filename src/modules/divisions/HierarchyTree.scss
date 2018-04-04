@@ -1,0 +1,109 @@
+@import "../../colors";
+.divisions-hierarchy {
+  .hierarchy-tree {
+    &.ant-tree {
+      ul {
+        padding-left: 0;
+        background-color: white;
+        transition: background-color 150ms ease-in-out;
+      }
+      li {
+        padding-top: 0;
+        padding-bottom: 0;
+        transition: background-color 150ms ease-in-out;
+        &>span.ant-tree-switcher {
+          width: 30px;
+          height: 60px;
+          line-height: 60px;
+          padding-left: 15px;
+          &.ant-tree-switcher-noop {
+            display: none;
+          }
+          &:after {
+            color: rgba(black, .4);
+            transition: font-size 150ms ease-in-out, transform 150ms ease-in-out, color 150ms ease-in-out;
+          }
+          &:hover {
+            &:not(.ant-tree-switcher-noop) {
+              &:after {
+                color: grey;
+                font-size: 14px;
+              }
+            }
+          }
+        }
+        &>span.ant-tree-node-content-wrapper {
+          height: 60px;
+          line-height: 60px;
+          padding: 0;
+          width: calc(100% - 30px);
+          transition: background-color 0ms;
+          &.ant-tree-node-content-wrapper-normal {
+            width: 100%;
+          }
+          &.ant-tree-node-selected {
+            background-color: transparent;
+          }
+          &>.ant-tree-title {
+            display: block;
+            height: 100%;
+            padding-left: 5px;
+            &>a {
+              height: 100%;
+              padding: 0 5px;
+              display: flex;
+              align-items: center;
+              color: rgba(black, .4);
+              font-size: 14px;
+              font-weight: 600;
+              transition: color 0ms;
+
+              &:focus {
+                text-decoration: none;
+              }
+              i {
+                margin-right: 10px;
+                color: rgba(black, .4);
+                fill: rgba(black, .4);
+                transition: color 120ms ease-in-out, fill 120ms ease-in-out;
+              }
+              span {
+                flex: 1;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                transition: color 120ms ease-in-out;
+              }
+            }
+          }
+          &:hover {
+            &>.ant-tree-title {
+              &>a {
+                span {
+                  color: black;
+                }
+              }
+            }
+            background-color: transparent;
+          }
+        }
+        &.active {
+          background-color: rgba($blue, 0.12);
+          &>span.ant-tree-node-content-wrapper {
+            &>.ant-tree-title {
+              &>a {
+                color: black;
+                i {
+                  color: $blue;
+                  fill: $blue;
+                }
+              }
+            }
+          }
+          &>ul {
+            background-color: white;
+          }
+        }
+      }
+    }
+  }
+}

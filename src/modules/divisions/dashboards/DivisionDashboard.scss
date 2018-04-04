@@ -1,0 +1,26 @@
+@import "../../../colors";
+.division-dashboard {
+  overflow: hidden;
+  .division-sub-title {
+    color: rgba(black, .4);
+    text-transform: uppercase;
+  }
+  .foot-comment{
+    display: flex;
+    align-items: center;
+    color: black;
+    opacity: 0.4;
+    margin-bottom: 5px;
+    text-align: center;
+    .comment{
+      margin-left: 10px;
+    }
+    i {
+      svg {
+        fill: currentColor;
+        max-width: 14px;
+        max-height: 14px;
+      }
+    }
+  }
+}

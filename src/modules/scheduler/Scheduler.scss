@@ -1,0 +1,29 @@
+.scheduler-wrapper {
+  padding: 30px;
+  background: white;
+  flex: 1;
+  .k-event {
+    .k-event-actions:not(:first-child) {
+      visibility: visible;
+      opacity: 1;
+      .actions {
+        opacity: 0;
+        .more-actions {
+          button {
+            padding-left: 3px!important;
+            padding-right: 3px!important;
+          }
+        }
+      }
+
+    }
+    &:hover {
+      .k-event-actions:not(:first-child) {
+        .actions {
+          opacity: 1;
+        }
+      }
+    }
+  }
+
+}

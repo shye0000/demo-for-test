@@ -1,0 +1,44 @@
+@import "../../../colors";
+.documents {
+  .document-item {
+    display: flex;
+    padding: 10px 20px;
+    align-items: center;
+    position: relative;
+    &:not(:last-child) {
+      border-bottom: 1px solid $nav-grey;
+
+    }
+    .flag {
+      font-size: 26px;
+      margin-right: 18px;
+      color: darkslategrey;
+      .file-icon {
+        &.red {
+          color: $red;
+        }
+        &.green {
+          color: forestgreen;
+        }
+        &.blue {
+          color: $blue;
+        }
+        &.orange {
+          color: orangered;
+        }
+        &.purple {
+          color: mediumpurple;
+        }
+      }
+    }
+    .document {
+      flex: 1;
+      .name {
+        font-weight: 600;
+      }
+      .sub-title {
+        color: grey;
+      }
+    }
+  }
+}

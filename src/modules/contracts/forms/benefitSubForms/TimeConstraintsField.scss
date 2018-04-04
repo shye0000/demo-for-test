@@ -1,0 +1,54 @@
+@import "../../../../colors";
+.time-constraints-field {
+  .time-constraint-label {
+    margin-bottom: 10px;
+  }
+  .link-add-time-constraint {
+    color: $blue;
+    cursor: pointer;
+    &>i {
+      margin-right: 5px;
+    }
+    &>span {
+      font-weight: 600;
+    }
+  }
+  .time-constraint-wrapper {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    &>* {
+      &:not(:last-child) {
+        margin-right: 10px;
+      }
+    }
+    &>.ant-form-item {
+      margin-bottom: 0;
+    }
+    &>.day {
+      margin-bottom: 0;
+      width: 125px
+    }
+    &>.hour {
+      margin-right: 2px;
+      width: 60px;
+      .ant-input-number {
+        width: 100%;
+        margin: 0;
+      }
+    }
+    &>i {
+      color: $red;
+      cursor: pointer;
+      opacity: 0.7;
+      transition: opacity 120ms ease-in-out;
+      &:hover {
+        opacity: 1;
+      }
+    }
+    .ant-form-explain {
+      display: none;
+    }
+  }
+}

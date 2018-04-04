@@ -1,0 +1,38 @@
+@import "../../../colors";
+.set-status-send-to-client-form {
+  .title {
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  .data-point-contact {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    .photo {
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      font-weight: 600;
+      font-size: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      background-color: $light-grey;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      margin-right: 13px;
+    }
+    .body {
+      flex: 1;
+      .name {
+        font-weight: 600;
+      }
+    }
+    &.contact-out {
+      .photo, .name {
+        opacity: 0.5;
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+@import "../../../colors";
+.unavailability {
+  .unavailability-item {
+    display: flex;
+    padding: 15px 20px;
+    &:not(:last-child) {
+      border-bottom: 1px solid $nav-grey;
+    }
+    .unavailability-comment{
+      margin-top: 5px;
+      color: rgba(0, 0, 0, .4);
+      fill: rgba(0, 0, 0, .4);
+      &>i {
+        vertical-align: text-bottom;
+        svg {
+          margin-right: 7px;
+          height: 20px;
+          width: 20px;
+        }
+      }
+    }
+    .content {
+      flex: 1;
+      .title {
+        font-weight: 600;
+      }
+    }
+  }
+  .pagination {
+    text-align: right;
+    padding: 15px 20px;
+    &>button {
+      &:not(:last-child) {
+        margin-right: 5px;
+      }
+    }
+  }
+}

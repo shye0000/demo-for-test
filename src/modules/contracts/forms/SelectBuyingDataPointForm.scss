@@ -1,0 +1,73 @@
+@import "../../../colors";
+.select-buying-data-point-form {
+  .buying-data-points-wrapper {
+    .label {
+      font-weight: 600;
+      color: rgba(black, .4);
+      margin-bottom: 10px;
+    }
+    .buying-data-point-block {
+      border: 1px solid $light-grey;
+      border-radius: 3px;
+      padding: 10px;
+      cursor: pointer;
+      &:hover {
+        background-color: rgba($background-grey, .6);
+      }
+      .division-link {
+        font-weight: 600;
+        margin-bottom: 5px;
+      }
+      &.selected {
+        border-color: $blue;
+      }
+      &:not(:last-child) {
+        margin-bottom: 10px;
+      }
+      .contacts-wrapper {
+        overflow-x: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+        .contact {
+          width: 125px;
+          text-align: center;
+          font-weight: 600;
+          color: black;
+          display: inline-block;
+          vertical-align: top;
+          padding-top: 5px;
+          &:not(:last-child) {
+            margin-right: 10px;
+          }
+          .photo {
+            width: 30px;
+            height: 30px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 5px;
+            border-radius: 50%;
+            font-weight: 600;
+            font-size: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            background-color: $light-grey;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+          }
+          .last-name {
+            text-transform: uppercase;
+          }
+          &.contact-out {
+            background-color: rgba($light-grey, .6);
+            opacity: .5;
+            &:not(:last-child) {
+              border-bottom: 1px solid $light-grey;
+            }
+          }
+        }
+      }
+    }
+  }
+}

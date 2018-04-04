@@ -1,0 +1,21 @@
+@import "../../../colors";
+.quotation-dashboard {
+  &.emergency {
+    .top {
+      .photo {
+        background: $background-red;
+        .component-wrapper {
+          & > * {
+            color: $red;
+          }
+        }
+      }
+      .title {
+        color: $red;
+      }
+    }
+  }
+  .no-division-label {
+    color: $red;
+  }
+}

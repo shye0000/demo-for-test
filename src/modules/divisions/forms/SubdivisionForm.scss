@@ -1,0 +1,20 @@
+@import "../../../colors";
+.add-site-mode-select-wrapper {
+  margin-bottom: 36px;
+  .title {
+    color: black;
+    font-weight: 600;
+  }
+  .add-site-mode-select {
+    button {
+      width: calc(50% - 10px);
+      &.selected {
+        border-color: $blue;
+        color: $blue;
+      }
+      &:first-child {
+        margin-right: 20px;
+      }
+    }
+  }
+}

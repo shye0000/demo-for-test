@@ -1,0 +1,14 @@
+@import "../../colors";
+.vehicle-icon-wrapper {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  .vehicle-icon {
+    margin: auto;
+    fill: $blue;
+    svg {
+      height: 30px;
+      width: 30px;
+    }
+  }
+}

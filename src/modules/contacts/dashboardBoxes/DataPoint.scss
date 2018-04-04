@@ -1,0 +1,26 @@
+@import "../../../colors";
+.datapoint {
+  .datapoint-item {
+    .lowercase {
+      text-transform: lowercase;
+    }
+    .division a {
+      font-weight: 600;
+      font-size: 16px;
+    }
+    padding: 10px 20px;
+    position: relative;
+    &:not(:last-child) {
+      border-bottom: 1px solid $nav-grey;
+    }
+  }
+  .pagination {
+    text-align: right;
+    padding: 15px 20px;
+    &>button {
+      &:not(:last-child) {
+        margin-right: 5px;
+      }
+    }
+  }
+}

@@ -1,0 +1,323 @@
+@import "colors";
+@import "Vars";
+
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  #main {
+    height: 100%;
+    .app-container {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      .app-header {
+        width:100%;
+        height:$app-header-height;
+        box-shadow: 0 0 8px 0 rgba(0,0,0,0.3);
+        z-index: 2;
+        .app-header-layout{
+          height:100%;
+          .app-header-div{
+            background-color: $grey-header;
+            height:100%;
+            display: flex;
+            padding: 0;
+            color: white;
+            position: relative;
+            align-items: center;
+            line-height: $app-sider-item-height;
+            .app-name{
+              color:white;
+              padding: 0 30px;
+              display: flex;
+              align-items: center;
+              cursor: pointer;
+              height: 100%;
+              #app-name-icon{
+                font-size: 20px;
+              }
+              #app-name-text{
+                color: white;
+                font-size: 22px;
+                fill: white;
+                height: 100%;
+                display: flex;
+                align-items: center;
+                .icon-svg {
+                  svg {
+                    width: 50px;
+                    height: 50px;
+                  }
+                }
+                .shuffler-wrapper {
+                  display: flex;
+                  align-items: center;
+                  i.icon-svg {
+                    margin-right: 7px;
+                  }
+                  #shuffler {
+                    font-size: 22px;
+                    color: lighten( $blue, 15% );
+                  }
+                }
+
+                &>span {
+                  transition: all 100ms ease-in;
+                  &.qhs {
+                    color: lighten( $blue, 15% );
+                    font-size: 26px;
+                  }
+                }
+                &:focus {
+                  text-decoration: none;
+                }
+              }
+            }
+            .app-right{
+              height: 100%;
+              position: absolute;
+              right:0;
+              top: 0;
+              display: flex;
+              .edit-translation-trigger {
+                button {
+                  &.edit-translation-active {
+                    background: $blue;
+                    color: white;
+                  }
+                  #app-edit-icon{
+                    //font-size: 20px;
+                  }
+                }
+              }
+              .app-user{
+                background: $grey-header;
+                border-bottom: none;
+                font-size: 14px;
+                color: rgba(white, .5);
+                padding: 0 40px 0 30px;
+                display: flex;
+                align-items: center;
+                transition: color 120ms ease-in-out;
+                cursor: pointer;
+                &:hover {
+                  border-bottom: none;
+                  color: white;
+                }
+              }
+              .ant-menu{
+                .ant-menu-submenu{
+                  border-bottom: none;
+                  color: white;
+                }
+                .ant-menu-submenu-title{
+                  padding: 0;
+                  i {
+                    font-size: 8px;
+                    color: rgba(white, .5)
+                  }
+
+
+                }
+                .ant-menu-submenu-active{
+                  border-bottom: none;
+                  color: white;
+                }
+              }
+            }
+          }
+        }
+      }
+      .app-main {
+        height: 100%;
+        overflow: hidden;
+        min-width: 320px;
+        .app-body {
+          flex: 1;
+          margin-left: $app-sider-width;
+          display: flex;
+          flex-direction: column;
+          height: 100%;
+          overflow-x: hidden;
+        }
+        .app-side-menu {
+          display: flex;
+          flex-direction: column;
+          background: $nav-grey;
+          width: $app-sider-width;
+          min-width: $app-sider-width;
+          position: fixed;
+          z-index: 999;
+          height: 100%;
+          overflow-y: auto;
+          -webkit-overflow-scrolling: touch;
+          box-shadow: 0 0 11px rgba(0, 0, 0, 0.23);
+          .ant-layout-sider-children {
+            background: $nav-grey;
+          }
+          .side-menu-focus{
+            position: fixed;
+            width:100%;
+            height:100%;
+            z-index: -1;
+          }
+          .ant-menu-inline, .ant-menu-vertical {
+            border-right: none;
+            flex: 1;
+            overflow-x: hidden;
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+          }
+
+          .ant-menu-item{
+            padding: 0 24px!important;
+            height: $app-sider-item-height;
+            line-height: $app-sider-item-height;
+            margin: 0;
+            i.nav-icon{
+              font-size: 20px;
+            }
+            a {
+              display: flex;
+              align-items: center;
+            }
+            &:hover{
+              background-color: rgba( $blue, .1 );
+            }
+          }
+          .ant-menu-item-selected {
+            background-color: rgba( $blue, .1 );
+            i{
+              color: $blue;
+            }
+            span{
+              color: black;
+            }
+          }
+          &.ant-layout-sider-collapsed {
+            overflow: visible;
+            .ant-layout-sider-children {
+              .menu-toggle-trigger {
+                .app-name {
+                  width: 0;
+                  opacity: 0;
+                  margin-left: -50px;
+                }
+                i:not(.icon-svg) {
+                  font-size: 18px;
+                  color: white;
+                  transform: rotate(-180deg);
+                }
+              }
+            }
+          }
+          .ant-layout-sider-children {
+            display: flex;
+            flex-direction: column;
+            .menu-toggle-trigger {
+              background-color: $blue;
+              height: $app-sider-item-height;
+              line-height: 15px;
+              padding: 0 28px 0 24px;
+              cursor: pointer;
+              transition: all 120ms ease-in-out;
+              text-align: right;
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+              overflow: hidden;
+              .app-name {
+                color: white;
+                font-size: 22px;
+                transition: all .3s;
+                fill: white;
+                .icon-svg {
+                  svg {
+                    width: 50px;
+                    height:  50px;
+                  }
+                }
+              }
+              i {
+                font-size: 20px;
+                color: white;
+                line-height: $app-sider-item-height;
+                min-width: 14px;
+                transition: transform 360ms ease-in-out;
+              }
+              &:hover {
+              }
+            }
+          }
+        }
+        .page-content-wrapper {
+          flex: 1;
+          overflow: hidden;
+          display: flex;
+          flex-direction: column;
+          .page-content {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            overflow: hidden;
+          }
+        }
+      }
+
+    }
+  }
+  .icon-info{
+    fill: #2596ff;
+    margin-left: 5px;
+    svg{
+      height: 13px;
+      width : 13px;
+    }
+  }
+  .ant-tooltip-inner{
+    max-width: 275px;
+  }
+}
+
+.ant-menu-item{
+  font-size: 16px!important;
+  &.ant-menu-item-selected {
+    font-weight: 600;
+  }
+  &:after {
+    display: none;
+  }
+}
+
+.user-menu-title {
+  display: flex;
+  align-items: center;
+  .avatar {
+    border-radius: 50%;
+    height: 36px;
+    width: 36px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: $background-grey;
+    margin-right: 15px;
+    color: grey;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-transform: uppercase;
+  }
+  .user-name {
+    margin-right: 5px;
+  }
+}
+
+.app-user-menu  {
+  li.ant-dropdown-menu-item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+  }
+}

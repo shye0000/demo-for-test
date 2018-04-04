@@ -1,0 +1,18 @@
+@import "../../colors";
+.employee-dashboard {
+  .foot-comment{
+    display: flex;
+    align-items: center;
+    color: black;
+    opacity: 0.4;
+    #comment{
+      margin-left: 10px;
+    }
+    i {
+      svg {
+        fill: currentColor;
+        width: 14px;
+      }
+    }
+  }
+}

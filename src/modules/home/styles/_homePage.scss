@@ -1,0 +1,47 @@
+@import "../../../colors";
+.home {
+  padding: 0 40px 30px 40px;
+  flex: 1;
+  height: 100%;
+  background: $background-grey;
+  .home-header{
+    height: 80px;
+    font-weight: 600;
+    color: black;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+  }
+  .home-content{
+    .home-tiles{
+      height: 150px;
+      margin-bottom: 16px;
+      &.disabled a{
+        /* TODO TAKE OFF CURSORS NOT ALLOWED WHEN REDIRECTION TO OTHERS PAGES WILL BE READY*/
+        cursor: not-allowed!important;
+      }
+      .home-tiles-content{
+        height: 100%;
+        background-color: white;
+        padding: 0 20px;
+        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+        .home-tiles-icon{
+          display: flex;
+          align-items: center;
+          height: 110px;
+          i{
+            color: $light-grey;
+            svg{
+              width: 45px;
+              height: 45px;
+              fill: currentColor
+            }
+          }
+        }
+        .home-tiles-title{
+          font-weight: 600;
+        }
+      }
+    }
+  }
+}

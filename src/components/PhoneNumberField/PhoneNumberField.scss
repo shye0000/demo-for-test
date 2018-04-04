@@ -1,0 +1,40 @@
+.phone-number-field-wrapper {
+  .react-phone-number-input.phone-number-field {
+
+    &.ant-input {
+      padding: 6px 11px;
+      height: 40px;
+      font-size: 16px;
+      .react-phone-number-input__row {
+        height: 100%;
+      }
+      .rrui__input {
+        .rrui__input-element {
+          height: 26px;
+          border-bottom: none;
+        }
+      }
+
+      .rrui__select__options--expanded {
+        left: 0;
+        width: 100%;
+        margin: 0;
+      }
+
+      .rrui__input.rrui__input-element{
+        &.rrui__input-field.react-phone-number-input__phone{
+          border-bottom: none;
+          height: 100%;
+          &::placeholder {
+            color: #bfbfbf;
+          }
+        }
+      }
+      .rrui__select__button{
+        border-bottom: none;
+        height: 100%;
+      }
+    }
+  }
+
+}

@@ -1,0 +1,25 @@
+@import "../../../colors";
+.contact-field, .add-contact-to-contact-point-form {
+  .contact-option {
+    display: flex;
+    align-items: center;
+    .photo {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      font-weight: 600;
+      font-size: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-around;
+      background-color: $light-grey;
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      margin-right: 10px;
+    }
+    .name {
+      flex: 1;
+    }
+  }
+}

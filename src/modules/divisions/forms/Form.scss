@@ -1,0 +1,23 @@
+.form-error-field{
+  .ant-form-explain{
+    margin-bottom: 15px;
+  }
+}
+.sous-organisation{
+  margin-top: 10px;
+  margin-bottom : 20px;
+  .sous-organisation-label{
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+    font-weight: 600;
+  }
+}
+.organisations-street{
+  .ant-row.ant-form-item{
+    width:100%;
+  }
+  .ant-form-item-control{
+    display: flex;
+  }
+}
+

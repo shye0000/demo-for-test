@@ -1,0 +1,54 @@
+import React from 'react';
+import UnavailabilityForm from './UnavailabilityForm';
+import ActionModalForm from '../../components/ActionModalForm';
+import notification from 'antd/lib/notification';
+import {Trans, withI18n} from 'lingui-react';
+import apiClient from '../../apiClient';
+import EditableTransWrapper from 'wbc-components/lib/Translations/components/EditableTransWrapper';
+import jsonStringifyPreserveUndefined from '../utils/jsonStringifyPreserveUndefined';
+
+class AddUnavailabilityModal extends ActionModalForm {
+	constructor(props) {
+		super(props, UnavailabilityForm, <div className="modal-title">
+			<EditableTransWrapper><Trans>Ajouter une indisponibilité</Trans></EditableTransWrapper>
+		</div>, <EditableTransWrapper><Trans>Ajouter</Trans></EditableTransWrapper>);
+	}
+	handleSubmit = (e) => {
+		e.preventDefault();
+		const {employee, i18n} = this.props;
+		this.form.validateFields((err, fieldsValue) => {
+			if (err) {
+				return;
+			}
+			this.setState({confirmLoading: true});
+			if(fieldsValue.typeDays === '1'){
+				fieldsValue.halfDays = fieldsValue.halfDays*2;
+			}
+			apiClient.fetch('/employee_unavailabilities', {
+				method: 'POST',
+				body: jsonStringifyPreserveUndefined({
+					...fieldsValue,
+					employee: employee['@id']
+				})
+			}).then(
+				(response) => {
+					this.setState({confirmLoading: false});
+					this.props.onCloseCallback(true, response.json);
+					notification['success']({
+						message: i18n.t`L'indisponibilité est bien ajoutée.`,
+						className: 'qhs-notification success'
+					});
+				},
+				() => {
+					this.setState({confirmLoading: false});
+					notification['error']({
+						message: i18n.t`L'indisponibilité n'a pas été ajoutée.`,
+						className: 'qhs-notification error'
+					});
+				}
+			);
+		});
+	}
+}
+
+export default withI18n()(AddUnavailabilityModal);
